@@ -1,0 +1,443 @@
+
+<!doctype html><html style="font-size: 10px;font-family: Roboto, Arial, sans-serif; background-color: #131313;"><head><!-- Origin Trial Token, feature = Long Task Observer, origin = https://www.youtube.com, expires = 2017-04-17 --><meta  http-equiv="origin-trial"  data-feature="Long Task Observer"  data-expires="2017-04-17"  content="AgXf9faUpH8YmYNhInb5nw8BxXZaT8pZlj3At6FUrcvdBzs0I8VxKDkfinT4bbXfPZX8lXKfjotQZrhFVnpzFwYAAABZeyJvcmlnaW4iOiJodHRwczovL3d3dy55b3V0dWJlLmNvbTo0NDMiLCJmZWF0dXJlIjoiTG9uZ1Rhc2tPYnNlcnZlciIsImV4cGlyeSI6MTQ5MjQ3MzYwMH0="><script >var ytcfg = {d: function() {return (window.yt && yt.config_) || ytcfg.data_ || (ytcfg.data_ = {});},get: function(k, o) {return (k in ytcfg.d()) ? ytcfg.d()[k] : o;},set: function() {var a = arguments;if (a.length > 1) {ytcfg.d()[a[0]] = a[1];} else {for (var k in a[0]) {ytcfg.d()[k] = a[0][k];}}}};window.ytcfg.set('EMERGENCY_BASE_URL', "\/error_204?client.version=2.20170830\u0026client.name=1\u0026t=jserror\u0026level=ERROR");</script><link rel="shortcut icon" href="/yts/img/ringo/img/favicon-vfl8qSV2F.ico" type="image/x-icon" ><link rel="icon" href="/yts/img/ringo/img/favicon_32-vflOogEID.png" sizes="32x32" ><link rel="icon" href="/yts/img/ringo/img/favicon_48-vflVjB_Qk.png" sizes="48x48" ><link rel="icon" href="/yts/img/ringo/img/favicon_96-vflW9Ec0w.png" sizes="96x96" ><link rel="icon" href="/yts/img/ringo/img/favicon_144-vfliLAfaB.png" sizes="144x144" ><title>YouTube</title><script >var ytcsi = {gt: function(n) {n = (n || '') + 'data_';return ytcsi[n] || (ytcsi[n] = {tick: {},info: {}});},now: window.performance && window.performance.timing &&window.performance.now ? function() {return window.performance.timing.navigationStart + window.performance.now();} : function() {return (new Date()).getTime();},tick: function(l, t, n) {ticks = ytcsi.gt(n).tick;var v = t || ytcsi.now();if (ticks[l]) {ticks['_' + l] = (ticks['_' + l] || [ticks[l]]);ticks['_' + l].push(v);}ticks[l] = v;},info: function(k, v, n) {ytcsi.gt(n).info[k] = v;},setStart: function(s, t, n) {ytcsi.info('yt_sts', s, n);ytcsi.tick('_start', t, n);}};(function(w, d) {ytcsi.setStart('dhs', w.performance ? w.performance.timing.responseStart : null);var isPrerender = (d.visibilityState || d.webkitVisibilityState) == 'prerender';var vName = d.webkitVisibilityState ? 'webkitvisibilitychange' : 'visibilitychange';if (isPrerender) {ytcsi.info('prerender', 1);var startTick = function() {ytcsi.setStart('dhs');d.removeEventListener(vName, startTick);};d.addEventListener(vName, startTick, false);}if (d.addEventListener) {d.addEventListener(vName, function() {ytcsi.tick('vc');}, false);}var slt = function(el, t) {setTimeout(function() {var n = ytcsi.now();el.loadTime = n;if (el.slt) {el.slt();}}, t);};w.__ytRIL = function(el) {if (!el.getAttribute('data-thumb')) {if (w.requestAnimationFrame) {w.requestAnimationFrame(function() {slt(el, 0);});} else {slt(el, 16);}}};})(window, document);</script>  <script >if (window.ytcsi) {window.ytcsi.tick("lpcs", null, '');}window.Polymer = {"suppressTemplateNotifications":true,"useNativeCSSProperties":true,"disableUpgradeEnabled":true,"suppressBindingNotifications":true,"lazyRegister":"max"};(function() {window.ytplayer = {};ytcfg.set({"ANIMATED_YOODLE_JS_URL":"\/yts\/jsbin\/www-animated-yoodle-vfl4t3Vtt\/www-animated-yoodle.js","LANGUAGE":"English","YPC_MB_URL":"https:\/\/payments.youtube.com\/payments\/v4\/js\/integrator.js?ss=md","INNERTUBE_CONTEXT_CLIENT_VERSION":"2.20170830","ENABLE_IMG_TRANSITION":false,"GOOGLE_FEEDBACK_PRODUCT_ID":"59","DEFERRED_BUNDLE_URL":"\/yts\/htmlbin\/desktop_polymer_selective_initialization_watch_deferred-vflh1_eUY.html","ASYNC_APP_ATTACH":true,"XSRF_TOKEN":"QUFFLUhqbVlmV3hTcW4tNk5OTF9uVjFJaTRhRUVDcG5Id3xBQ3Jtc0tuUEZ2VklKOUx1STRLWUNtUmVFZDFKWVoxQkxnQU1aMnNhZVF0Z00tSXZwcTl3bGFOZ0RORUR3ZjNjT25Hc0RuekRFT2o0TktyYkgwZG9QTWF0WTB5MjQ2SGlyMGpQanp3VGxCSWotWmZzNC1RUUdHY1FvRlE1T0QwdVltOGR1SEllUThtbDdKZ2FTWXdpdlBLNm1hYnFkU1RtM2c=","LOGGED_IN":true,"NO_EMPTY_DATA_IMG":true,"SUPPORTS_ANIMATIONS":true,"SERVICE_WORKER_PROMPT_NOTIFICATIONS":false,"GAPI_LOCALE":"en_US","SBOX_SETTINGS":{"REQUEST_DOMAIN":"us","SUGG_EXP_ID":"","REQUEST_LANGUAGE":"en","IS_POLYMER":true,"IS_FUSION":false,"HAS_ON_SCREEN_KEYBOARD":false,"SESSION_INDEX":0,"PSUGGEST_TOKEN":"5OVNzb2bfI3I9R5QahHpqw","PQ":""},"DISABLE_YT_IMG_DELAY_LOADING":false,"COUNTRY":"United States","HTML_LANG":"en","ENABLE_SELECTIVE_REGISTRATION":true,"VISIBILITY_TIME_BETWEEN_JOBS_MS":500,"INNERTUBE_API_KEY":"AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8","XSRF_FIELD_NAME":"session_token","SCHEDULE_IMMEDIATE_COMPONENTS":true,"SBOX_JS_URL":"\/yts\/jsbin\/www-searchbox-vflPP6nrm\/www-searchbox.js","PLAYER_JS_URL":"\/yts\/jsbin\/player-en_US-vfleWWlqf\/base.js","DISABLE_DATA_REPLAY":false,"CLIENT_PROTOCOL":"h2","UPLOAD_BTN_CLICKTRACKING":"ei=mC6wWd_GJMjxqwWejKzYCA\u0026feature=mhsb","STAMPER_STABLE_LIST":true,"SCHEDULER_SOFT_STATE_TIMER":800,"ENABLE_SERVICE_REQUEST":true,"RECORD_LONG_TASKS":true,"HTML_IMPORT_DEFERRED_BUNDLE":true,"ID_TOKEN":"QUFFLUhqbm1wUGY1TU9MSHNYRWhjUmhKNDdVSWFmemh6d3w=","SIGNIN_URL":"https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026hl=en\u0026authuser=0\u0026service=youtube\u0026uilel=3\u0026continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26hl%3Den%26authuser%3D0%26action_handle_signin%3Dtrue%26feature%3D__FEATURE__%26next%3D%252Fwatch%253Fv%253DSSEMiCkB-QY","PAGE_BUILD_LABEL":"youtube.ytfe.desktop_20170830_0_RC4","WELCOME_POPUP_ENABLED_END":null,"HTML_DIR":"ltr","SCHEDULED_LAZY_LIST":true,"INNERTUBE_CONTEXT_CLIENT_NAME":1,"INNERTUBE_API_VERSION":"v1","ONE_PICK_URL":"","DISABLE_WARM_LOADS":false,"VARIANTS_CHECKSUM":"043e00922769895d5351a62b8359bf0e","CHANNEL_DEFAULT_BANNER":"https:\/\/s.ytimg.com\/yts\/img\/channels\/c4\/default_banner-vfl7DRgTn.png","GAPI_HOST":"https:\/\/apis.google.com","LATEST_ECATCHER_SERVICE_TRACKING_PARAMS":{"client.name":"WEB"},"GOOGLE_FEEDBACK_PRODUCT_DATA":{"polymer":"active","accept_language":"en-US,en;q=0.8"},"DEFERRED_DETACH":true,"XHR_APIARY_HOST":"youtubei.youtube.com","EXPERIMENT_FLAGS":{"log_web_screen_end":true,"autoplay_pause_sampling_fraction":0.0,"desktop_pyv_on_watch_override_lact":true,"defer_overlays":true,"live_chat_message_sampling_rate":1.0,"cold_missing_history":true,"optimistically_create_transport_client":true,"use_push_for_desktop_live_chat":true,"flatten_video_meta":true,"guide_after_preconstruction":true,"polymer_selective_initialization_watch":true,"interaction_logging_on_gel_web":true,"desktop_notification_set_title_bar":true,"disable_comments_prescan_visibility":true,"html5_serverside_ignore_biscotti_id_on_retry":true,"enable_server_side_search_pyv":true,"service_worker_push_home_only":true,"inline_guide_data":true,"polymer_enable_mdx":true,"custom_emoji_super_chat":true,"web_logging_max_batch":100,"restore_player_preloading":true,"polymer_prepopulate_warm_load":true,"enable_preconstruction":true,"same_domain_static_resources_desktop":true,"watch_next_pause_autoplay_lact_sec":0,"preconstruction_period":16,"enable_signal_processors":true,"web_gel_lact":true,"custom_emoji_desktop":true,"desktop_pyv_on_watch_missing_params":true,"web_system_health_fraction":0.01,"desktop_polymer":true,"enable_playlist_visibility":true,"visibility_time_between_jobs_ms":500,"service_worker_push_force_notification_prompt_tag":"1","enable_red_carpet_experience_web":true,"chat_smoothing_animations":84,"service_worker_push_prompt_cap":-1,"defer_previous_shelf_buttons":true,"gfeedback_for_signed_out_users_enabled":true,"player_swfcfg_cleanup":true,"defer_menus":true,"polymer_cold_home_preload":true,"polymer_report_missing_web_navigation_endpoint_rate":0.1,"cold_load_nav_start_web":true,"enable_signals":true,"live_chat_inline_moderation":true,"polymer_selective_initialization":true,"polymer_preconnect_spt_chunk":true,"service_worker_push_enabled":true,"live_chat_message_sampling_method":"","pbj_navigate_limit":-1,"service_worker_push_prompt_delay_ms":3888000000,"desktop_scheduler_soft_state_timer":800,"polymer_warm_thumbnail_preload":true,"enable_logging_directives_desktop":true,"debug_forced_promo_id":"","custom_emoji_legacy":true,"autoescape_tempdata_url":true,"warm_load_nav_start_web":true,"enable_web_red_carpet_video_as_thumbnail":true,"autoplay_pause_by_lact_sec":0,"enable_button_behavior_reuse":true,"consent_url_override":"","polymer_schedule_immediate_components":true,"log_window_onerror_fraction":0.1,"request_live_dashboard_chat_promotions":true,"polymer_simple_endpoint":true,"preconstruction_coef":0.45,"enable_job_parking":true,"preload_channel_thumbnails":true,"defer_tooltips":true,"comment_deep_link":true,"json_serialize_service_endpoints2":true,"kevlar_searchbox_designs":"legacy","enable_web_ketchup_hero_animation":true,"add_old_subscribe_button":true,"live_chat_replay_milliqps_threshold":5000,"polymer_selective_registration":true,"custom_emoji_main_app":true,"kevlar_no_visbility_ve_batch":true,"preconstruction_yield":true,"polymer_enable_updated_metadata":true,"app_settings_snapshot_is_logging_enabled":true,"youtubei_for_web":true,"enable_youtubei_innertube":true,"preconstruction_delay":0,"tighter_critical_section":true,"scheduled_watch_response":true,"polymer_video_renderer_defer_menu":true,"app_settings_snapshot_min_time_between_snapshots_hours":24,"defer_moving_thumbs":true,"log_web_meta_interval_ms":0,"clear_web_implicit_clicktracking":true,"enable_more_related_ve_logging":true,"remove_web_visibility_batching":true,"kevlar_remove_itct_from_visibility":true,"service_worker_push_logged_out_prompt_watches":-1,"kevlar_comments_designs":"","kevlar_live_badges":true,"autoplay_time":8000,"preload_guide_thumbs":true,"log_js_exceptions_fraction":0.2,"use_watch_fragments2":true,"desktop_pyv_on_watch_via_valor":true,"polymer_propagate_network_rejection":true,"block_spf_search_ads_impressions":true,"botguard_periodic_refresh":true,"cancel_pending_navs":true,"graft_guide_on_navigation":true,"preconstruction_initial_pass":true,"polymer_addcreator_settimeout":true,"service_worker_enabled":true,"autoplay_pause_by_lact_sampling_fraction":0.0,"service_worker_scope":"\/","comment_reverse_reverse":true},"PAGE_CL":167319338,"ELEMENT_POOL_DEFAULT_CAP":75,"REUSE_COMPONENTS":true,"PLAYER_CSS_URL":"\/yts\/cssbin\/www-player-webp-vfl1mBxV7.css","GAPI_HINT_PARAMS":"m;\/_\/scs\/abc-static\/_\/js\/k=gapi.gapi.en.ellQXbSf-LI.O\/m=__features__\/am=AAg\/rt=j\/d=1\/rs=AHpOoo9jm0At0b0B7I7G3MSvlepU00mZfA","ZWIEBACK_PING_URLS":["https:\/\/www.google.com\/pagead\/lvz?evtid=AP6Vqb_l-_17VNArx0NdoxG0ows1CiiyYorKhgwtr2jcYtRNtenGoraq-IjEh95ZW-BbkwGUy0PdSb1n2SVG6OffZwg6dv_g9A\u0026req_ts=1504718488\u0026pg=watch\u0026sigh=AP-8cyRI42Pn0tnU5sURImCaq2B1SJ4Mig"],"CLIENT_TRANSPORT":"tcp","YTR_FAMILY_CREATION_URL":"https:\/\/families.google.com\/webcreation?usegapi=1","ENABLE_SELECTIVE_INITIALIZATION":true,"ASYNC_WATCH":true});ytcfg.set("SBOX_LABELS", {"SUGGESTION_DISMISS_LABEL":"Remove","SUGGESTION_DISMISSED_LABEL":"Suggestion dismissed"});var setMessage = function(msg) {if (window.yt && yt.setMsg) {yt.setMsg(msg);} else {window.ytcfg = window.ytcfg || {};ytcfg.msgs = msg;}};setMessage({'SIGN_IN_LABEL': "Sign in",'SHARE_LABEL': "Share",'COPY_URL_BTN_LABEL': "Copy",'EMBED_BTN_LABEL': "Embed",'GUIDE_ALT_LABEL': "Guide",'LOGO_ALT_LABEL': "YouTube Home",'HELP_LABEL': "Help",'SETTINGS_ALT_LABEL': "Settings",'BACK_ALT_LABEL': "Back",'CHOOSE_COUNTRY_LABEL': "Choose your content location",'COUNTRY_LABEL': "Content location:",'COMMENTBOX_POST': "Post",'COMMENTBOX_CANCEL': "Cancel",'COMMENT_READ_MORE': "Read more",'COMMENT_SHOW_LESS': "Show less",'CHOOSE_LANGUAGE_LABEL': "Choose your language",'LANGUAGE_LABEL': "Language:",'WELCOME_POPUP_HEADER': "Welcome to the new YouTube!",'WELCOME_POPUP_LABEL': "Click your avatar to access your settings or select the new Dark Theme option. From here you can also send feedback or return to the old look.",'OFF': "Off",'ON': "On",'RESTRICTED_MODE_LABEL': "Restricted Mode:",'RESTRICTED_MODE_TEXT_LINE_1': "Restricted Mode hides videos that may contain inappropriate content flagged by users and other signals. No filter is 100% accurate, but it should help you avoid most inappropriate content.",'RESTRICTED_MODE_TEXT_LINE_2': "Your Restricted Mode setting will apply to this browser only.",'RESTRICTED_MODE_TITLE': "Restricted Mode",'THEME_DARK_LABEL': "Theme: Dark",'THEME_LIGHT_LABEL': "Theme: Light",'THEME_TITLE': "Theme",'THEME_SWITCH_DARK_LABEL': "Dark",'THEME_SWITCH_LIGHT_LABEL': "Light",'DARK_THEME_LABEL': "Dark Theme:",'DARK_THEME_ON_LABEL': "Dark Theme: On",'DARK_THEME_SWITCH_LABEL': "Activate Dark Theme",'DARK_THEME_TEXT_LINE_1': "Dark theme turns the light surfaces of the page dark, creating an experience ideal for night. Try it out!",'DARK_THEME_TEXT_LINE_2': "Your Dark Theme setting will apply to this browser only.",'DARK_THEME_TITLE': "Dark Theme",'DARK_MODE_LABEL': "Dark Mode:",'DARK_MODE_TEXT_LINE_1': "Dark mode turns the light surfaces of the page dark, creating an experience ideal for night. Try it out!",'DARK_MODE_TEXT_LINE_2': "Your Dark Mode setting will apply to this browser only.",'DARK_MODE_TITLE': "Dark Mode",'DARK_MODE_SWITCH_LABEL': "Activate Dark Mode",'FEEDBACK_LABEL': "Send feedback",'SBOX_PLACEHOLDER': "Search",'OPTOUT_DIALOG_TITLE': "We're sorry to see you go!",'OPTOUT_DIALOG_CONTENT': "Would you like to take a moment to provide us some feedback so that we can improve?",'OPTOUT_DIALOG_SEND_FEEDBACK_LABEL': "Yes",'OPTOUT_DIALOG_SKIP_FEEDBACK_LABEL': "No, thanks",'OPTOUT_DIALOG_HEADER': "Please tell us why.",'OPTOUT_DIALOG_DISLIKE_CHANGED_FEATURE': "An important feature was changed, but I don't prefer it this way.",'OPTOUT_DIALOG_HARDER_TO_USE_FEATURE': "An important feature was changed, and now it is harder to use.",'OPTOUT_DIALOG_POTENTIALLY_BROKEN_FEATURE': "An important feature was not working properly.",'OPTOUT_DIALOG_POTENTIALLY_MISSING_FEATURE': "An important feature was missing.",'OPTOUT_DIALOG_UNLISTED_REASON': "My reason isn't listed.",'OPTOUT_DIALOG_FREE_FORM_LABEL': "Tell us more",'OPTOUT_DIALOG_DISCLAIMER': "Go to the \u003ca id='legal-help-page'\u003eLegal Help page\u003c\/a\u003e to request content changes for legal reasons. Your feedback, additional info, and email will be sent to Google. See \u003ca id='privacy-policy-page'\u003ePrivacy Policy\u003c\/a\u003e and \u003ca id='terms-of-service-page'\u003eTerms of Service\u003c\/a\u003e.",'OPTOUT_DIALOG_SUBMIT_LABEL': "Submit",'OPTOUT_DIALOG_NO_THANKS_LABEL': "No thanks",'CLASSIC_YOUTUBE_LABEL': "Restore old YouTube",'ADD_TO_DROPDOWN_LABEL': "Add to...",'REQUIRED_LABEL': "Required",'EDIT_AVATAR_LABEL': "Edit channel icon",'AD_BADGE_TEXT': "Ad"});})();ytcfg.set('scheduler', {useRaf: true, timeout: 20});ytcfg.set('initialInnerWidth', window.innerWidth);ytcfg.set('initialInnerHeight', window.innerHeight);window.ytcfg.set('IS_WATCH_PAGE_COLD', true);window.ytcfg.set('COLD_LOADED_PAGE', 'watch');if (window.ytcsi) {window.ytcsi.tick("lpcf", null, '');}</script>  
+<script  src="/yts/jsbin/scheduler-vflECsY_V/scheduler.js" type="text/javascript" name="scheduler/scheduler" ></script>  
+  
+<script  src="/yts/jsbin/www-pagead-id-vflPU83fT/www-pagead-id.js" type="text/javascript" name="www-pagead-id/www-pagead-id" async></script>  
+  
+<script  src="/yts/jsbin/player-en_US-vfleWWlqf/base.js" type="text/javascript" name="player/base" ></script>  
+<script >if (window.ytcsi) {window.ytcsi.tick("csl", null, '');}</script>
+  <style name="www-roboto" >@font-face{font-family:'Roboto';font-style:italic;font-weight:400;src:local('Roboto Italic'),local('Roboto-Italic'),url(//fonts.gstatic.com/s/roboto/v16/WxrXJa0C3KdtC7lMafG4dRTbgVql8nDJpwnrE27mub0.woff2)format('woff2');unicode-range:U+0460-052F,U+20B4,U+2DE0-2DFF,U+A640-A69F;}@font-face{font-family:'Roboto';font-style:italic;font-weight:400;src:local('Roboto Italic'),local('Roboto-Italic'),url(//fonts.gstatic.com/s/roboto/v16/OpXUqTo0UgQQhGj_SFdLWBTbgVql8nDJpwnrE27mub0.woff2)format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;}@font-face{font-family:'Roboto';font-style:italic;font-weight:400;src:local('Roboto Italic'),local('Roboto-Italic'),url(//fonts.gstatic.com/s/roboto/v16/1hZf02POANh32k2VkgEoUBTbgVql8nDJpwnrE27mub0.woff2)format('woff2');unicode-range:U+1F00-1FFF;}@font-face{font-family:'Roboto';font-style:italic;font-weight:400;src:local('Roboto Italic'),local('Roboto-Italic'),url(//fonts.gstatic.com/s/roboto/v16/cDKhRaXnQTOVbaoxwdOr9xTbgVql8nDJpwnrE27mub0.woff2)format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Roboto';font-style:italic;font-weight:400;src:local('Roboto Italic'),local('Roboto-Italic'),url(//fonts.gstatic.com/s/roboto/v16/K23cxWVTrIFD6DJsEVi07RTbgVql8nDJpwnrE27mub0.woff2)format('woff2');unicode-range:U+0102-0103,U+1EA0-1EF9,U+20AB;}@font-face{font-family:'Roboto';font-style:italic;font-weight:400;src:local('Roboto Italic'),local('Roboto-Italic'),url(//fonts.gstatic.com/s/roboto/v16/vSzulfKSK0LLjjfeaxcREhTbgVql8nDJpwnrE27mub0.woff2)format('woff2');unicode-range:U+0100-024F,U+1E00-1EFF,U+20A0-20AB,U+20AD-20CF,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Roboto';font-style:italic;font-weight:400;src:local('Roboto Italic'),local('Roboto-Italic'),url(//fonts.gstatic.com/s/roboto/v16/vPcynSL0qHq_6dX7lKVByfesZW2xOQ-xsNqO47m55DA.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215;}@font-face{font-family:'Roboto';font-style:italic;font-weight:500;src:local('Roboto Medium Italic'),local('Roboto-MediumItalic'),url(//fonts.gstatic.com/s/roboto/v16/OLffGBTaF0XFOW1gnuHF0TTOQ_MqJVwkKsUn0wKzc2I.woff2)format('woff2');unicode-range:U+0460-052F,U+20B4,U+2DE0-2DFF,U+A640-A69F;}@font-face{font-family:'Roboto';font-style:italic;font-weight:500;src:local('Roboto Medium Italic'),local('Roboto-MediumItalic'),url(//fonts.gstatic.com/s/roboto/v16/OLffGBTaF0XFOW1gnuHF0TUj_cnvWIuuBMVgbX098Mw.woff2)format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;}@font-face{font-family:'Roboto';font-style:italic;font-weight:500;src:local('Roboto Medium Italic'),local('Roboto-MediumItalic'),url(//fonts.gstatic.com/s/roboto/v16/OLffGBTaF0XFOW1gnuHF0UbcKLIaa1LC45dFaAfauRA.woff2)format('woff2');unicode-range:U+1F00-1FFF;}@font-face{font-family:'Roboto';font-style:italic;font-weight:500;src:local('Roboto Medium Italic'),local('Roboto-MediumItalic'),url(//fonts.gstatic.com/s/roboto/v16/OLffGBTaF0XFOW1gnuHF0Wo_sUJ8uO4YLWRInS22T3Y.woff2)format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Roboto';font-style:italic;font-weight:500;src:local('Roboto Medium Italic'),local('Roboto-MediumItalic'),url(//fonts.gstatic.com/s/roboto/v16/OLffGBTaF0XFOW1gnuHF0b6up8jxqWt8HVA3mDhkV_0.woff2)format('woff2');unicode-range:U+0102-0103,U+1EA0-1EF9,U+20AB;}@font-face{font-family:'Roboto';font-style:italic;font-weight:500;src:local('Roboto Medium Italic'),local('Roboto-MediumItalic'),url(//fonts.gstatic.com/s/roboto/v16/OLffGBTaF0XFOW1gnuHF0SYE0-AqJ3nfInTTiDXDjU4.woff2)format('woff2');unicode-range:U+0100-024F,U+1E00-1EFF,U+20A0-20AB,U+20AD-20CF,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Roboto';font-style:italic;font-weight:500;src:local('Roboto Medium Italic'),local('Roboto-MediumItalic'),url(//fonts.gstatic.com/s/roboto/v16/OLffGBTaF0XFOW1gnuHF0Y4P5ICox8Kq3LLUNMylGO4.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:local('Roboto Medium'),local('Roboto-Medium'),url(//fonts.gstatic.com/s/roboto/v16/ZLqKeelYbATG60EpZBSDyxJtnKITppOI_IvcXXDNrsc.woff2)format('woff2');unicode-range:U+0460-052F,U+20B4,U+2DE0-2DFF,U+A640-A69F;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:local('Roboto Medium'),local('Roboto-Medium'),url(//fonts.gstatic.com/s/roboto/v16/oHi30kwQWvpCWqAhzHcCSBJtnKITppOI_IvcXXDNrsc.woff2)format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:local('Roboto Medium'),local('Roboto-Medium'),url(//fonts.gstatic.com/s/roboto/v16/rGvHdJnr2l75qb0YND9NyBJtnKITppOI_IvcXXDNrsc.woff2)format('woff2');unicode-range:U+1F00-1FFF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:local('Roboto Medium'),local('Roboto-Medium'),url(//fonts.gstatic.com/s/roboto/v16/mx9Uck6uB63VIKFYnEMXrRJtnKITppOI_IvcXXDNrsc.woff2)format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:local('Roboto Medium'),local('Roboto-Medium'),url(//fonts.gstatic.com/s/roboto/v16/mbmhprMH69Zi6eEPBYVFhRJtnKITppOI_IvcXXDNrsc.woff2)format('woff2');unicode-range:U+0102-0103,U+1EA0-1EF9,U+20AB;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:local('Roboto Medium'),local('Roboto-Medium'),url(//fonts.gstatic.com/s/roboto/v16/oOeFwZNlrTefzLYmlVV1UBJtnKITppOI_IvcXXDNrsc.woff2)format('woff2');unicode-range:U+0100-024F,U+1E00-1EFF,U+20A0-20AB,U+20AD-20CF,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:local('Roboto Medium'),local('Roboto-Medium'),url(//fonts.gstatic.com/s/roboto/v16/RxZJdnzeo3R5zSexge8UUVtXRa8TVwTICgirnJhmVJw.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:local('Roboto Regular'),local('Roboto-Regular'),url(//fonts.gstatic.com/s/roboto/v16/ek4gzZ-GeXAPcSbHtCeQI_esZW2xOQ-xsNqO47m55DA.woff2)format('woff2');unicode-range:U+0460-052F,U+20B4,U+2DE0-2DFF,U+A640-A69F;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:local('Roboto Regular'),local('Roboto-Regular'),url(//fonts.gstatic.com/s/roboto/v16/mErvLBYg_cXG3rLvUsKT_fesZW2xOQ-xsNqO47m55DA.woff2)format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:local('Roboto Regular'),local('Roboto-Regular'),url(//fonts.gstatic.com/s/roboto/v16/-2n2p-_Y08sg57CNWQfKNvesZW2xOQ-xsNqO47m55DA.woff2)format('woff2');unicode-range:U+1F00-1FFF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:local('Roboto Regular'),local('Roboto-Regular'),url(//fonts.gstatic.com/s/roboto/v16/u0TOpm082MNkS5K0Q4rhqvesZW2xOQ-xsNqO47m55DA.woff2)format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:local('Roboto Regular'),local('Roboto-Regular'),url(//fonts.gstatic.com/s/roboto/v16/NdF9MtnOpLzo-noMoG0miPesZW2xOQ-xsNqO47m55DA.woff2)format('woff2');unicode-range:U+0102-0103,U+1EA0-1EF9,U+20AB;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:local('Roboto Regular'),local('Roboto-Regular'),url(//fonts.gstatic.com/s/roboto/v16/Fcx7Wwv8OzT71A3E1XOAjvesZW2xOQ-xsNqO47m55DA.woff2)format('woff2');unicode-range:U+0100-024F,U+1E00-1EFF,U+20A0-20AB,U+20AD-20CF,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:local('Roboto Regular'),local('Roboto-Regular'),url(//fonts.gstatic.com/s/roboto/v16/CWB0XYA8bzo0kSThX0UTuA.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215;}</style><script name="www-roboto" >if (document.fonts && document.fonts.load) {document.fonts.load("400 10pt Roboto", "E");document.fonts.load("500 10pt Roboto", "E");}</script>
+<link rel="stylesheet" href="/yts/cssbin/www-player-webp-vfl1mBxV7.css" name="www-player" id="player-css"><link rel="stylesheet" href="/yts/cssbin/www-main-desktop-player-skeleton-webp-vflWlIDiM.css" name="www-main-desktop-player-skeleton"><style name="global_styles">body {
+  padding: 0;
+  margin: 0;
+}
+
+.hidden {
+  display: none;
+}
+</style><style name="masthead_shell">ytd-masthead.shell {
+  display: -ms-flex;
+  display: -webkit-flex;
+  display: flex;
+  height: 56px;
+  padding: 0 16px;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+
+ytd-masthead.shell #searchbox {
+  -ms-flex: 1 1 auto;
+  -webkit-flex: 1 1 auto;
+  flex: 1 1 auto;
+  margin: 0 40px;
+}
+
+ytd-masthead.shell #yt-logo-svg {
+  align-self: center;
+  margin-left: 8px;
+  padding: 0;
+  color: black;
+}
+
+ytd-masthead.shell svg {
+  width: 40px;
+  height: 40px;
+  padding: 8px;
+  margin-right: 8px;
+  box-sizing: border-box;
+  color: rgba(17, 17, 17, .4);
+  fill: currentColor;
+}
+
+ytd-masthead.shell #three-dot-icon {
+  margin: 8px;
+}
+
+ytd-masthead.shell #sign-in-btn a {
+  color: rgb(230, 33, 33);
+  font-weight: 500;
+  font-size: 1.4rem;
+  letter-spacing: .007px;
+  text-transform: uppercase;
+  text-decoration: none;
+  vertical-align: middle;
+  padding: 10px 16px;
+  white-space: nowrap;
+}
+
+ytd-masthead.shell #search-icon {
+  display: none;
+}
+
+ytd-masthead.shell #more-vert-icon {
+  margin-left: 8px;
+}
+
+/** Keep these styles in sync with ytd-masthead_fn_test. */
+ytd-masthead .external-icon {
+  width: 24px;
+  height: 24px;
+}
+
+ytd-masthead .yt-icons-ext {
+  fill: currentColor;
+  color: rgba(17, 17, 17, .4);
+}
+
+ytd-masthead #yt-logo-svg {
+  width: 56px;
+  height: 24px;
+}
+
+ytd-app > #drop-shadow {
+  pointer-events: none;
+  box-shadow: inset 0px 4px 8px -3px rgba(17, 17, 17, .16);
+  height: 8px;
+}
+
+@media (max-width: 656px) {
+  ytd-masthead.shell {
+    padding: 0 8px;
+  }
+  ytd-masthead.shell #searchbox {
+    margin: 0;
+  }
+  ytd-masthead.shell svg  {
+    margin-right: 0;
+  }
+  ytd-masthead.shell #yt-logo-svg  {
+    margin-left: 4px;
+  }
+
+  ytd-masthead.shell #search-icon {
+    display: block;
+  }
+
+  ytd-masthead.shell #more-vert-icon {
+    margin-left: 0;
+  }
+}
+</style><style name="masthead_custom_styles" is="custom-style"  id="ext-styles" >ytd-masthead .yt-icons-ext {
+  color: var(--yt-swatch-text);
+}
+
+ytd-masthead svg#yt-logo-svg #tube-paths {
+  fill: #e62117;
+}
+
+ytd-masthead svg#yt-logo-svg #you-path {
+  fill: black;
+}
+</style><style name="emergencycss">body { margin: 0; padding: 0; } .hidden { display: none; } #masthead.shell { visibility: hidden; } ytd-search > div#container { flex: 1; } body[dark] yt-button-renderer.yt-live-chat-auto-mod-message-renderer.style-default[is-paper-button] { color: #fff; background: rgba(255, 255, 255, 0.2); } .ytd-banner-promo-renderer-background.ytd-banner-promo-renderer { background-size: 970px }</style><link rel="search" type="application/opensearchdescription+xml" href="https://www.youtube.com/opensearch?locale=en_US" title="YouTube Video Search"><link rel="manifest" href="/manifest.json"></head><body dir="ltr" dark invert ><script >if (window.ytcsi) {window.ytcsi.tick("bs", null, '');}ytcfg.set('initialBodyClientWidth', document.body.clientWidth);window.ytcfg.set('SERVICE_WORKER_KILLSWITCH', false);</script><!-- end of chunk -->        <script >if (window.ytcsi) {window.ytcsi.tick("bc", null, '');}</script>
+        <link rel="preload" href="https://r3---sn-xo5-poql.googlevideo.com/generate_204">
+        <link rel="preload" href="https://r3---sn-xo5-poql.googlevideo.com/generate_204?conn2">
+
+      
+<link as="document" rel="preload" href="/yts/htmlbin/desktop_polymer_selective_initialization_watch-vflPFkHdF.html">    
+  
+<link rel="preload" href="/yts/jsbin/desktop_polymer-vfltYIMkn/desktop_polymer.js" as="script">  
+
+    
+  <div id="player" class="skeleton">
+    <div id="player-api" class="player-width player-height off-screen-target player-api"></div>
+      <script >if (window.ytcsi) {window.ytcsi.tick("cfg", null, '');}</script>      <script >var ytplayer = ytplayer || {};ytplayer.config = {"url":"https:\/\/s.ytimg.com\/yts\/swfbin\/player-vflTfvXGT\/watch_as3.swf","html5":true,"min_version":"8.0.0","messages":{"player_fallback":["Adobe Flash Player or an HTML5 supported browser is required for video playback.\u003cbr\u003e\u003ca href=\"https:\/\/get.adobe.com\/flashplayer\/\"\u003eGet the latest Flash Player \u003c\/a\u003e\u003cbr\u003e\u003ca href=\"\/html5\"\u003eLearn more about upgrading to an HTML5 browser\u003c\/a\u003e"]},"assets":{"css":"\/yts\/cssbin\/www-player-webp-vfl1mBxV7.css","js":"\/yts\/jsbin\/player-en_US-vfleWWlqf\/base.js"},"attrs":{"id":"movie_player","wmode":"transparent"},"args":{"innertube_context_client_version":"2.20170830","host_language":"en","ssl":"1","fexp":"23700223,23700386,23700451,23700586,23700611,23701391,23701914,3300111,3300130,3312636,3313274,3313321,3313362,3313502,9422596,9431754,9449243,9460072,9461314,9463829,9467502,9471239,9473222,9474595,9476327,9480475,9480776,9481866,9483010,9486326,9488033,9488038,9489082,9489706,9489851","apiary_host":"","cr":"US","hl":"en_US","xhr_apiary_host":"youtubei.youtube.com","player_error_log_fraction":"1.0","innertube_api_key":"AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8","gapi_hint_params":"m;\/_\/scs\/abc-static\/_\/js\/k=gapi.gapi.en.ellQXbSf-LI.O\/m=__features__\/am=AAg\/rt=j\/d=1\/rs=AHpOoo9jm0At0b0B7I7G3MSvlepU00mZfA","apiary_host_firstparty":"","enablejsapi":"1","fflags":"html5_max_vss_watchtime_ratio=0.0\u0026html5_max_stall_per_req_secs=0\u0026html5_msi_error_fallback=true\u0026stop_using_ima_sdk_gpt_request_activity=true\u0026disable_search_mpu=true\u0026exclude_pyv_overlays_on_desktop_watch=true\u0026kids_eliminate_playlists_in_channels=true\u0026html5_subsegment_readahead_tail_margin_secs=0.2\u0026html5_suspended_state=true\u0026mpu_visible_threshold_count=2\u0026html5_bandwidth_window_size=0\u0026use_new_style=true\u0026mweb_blacklist_progressive_chrome_mobile=true\u0026yto_enable_ytr_promo_refresh_assets=true\u0026html5_serverside_call_server_on_biscotti_timeout=true\u0026midroll_notify_time_seconds=5\u0026mweb_muted_autoplay_animation=none\u0026chrome_promo_enabled=true\u0026html5_min_vss_watchtime_to_cut_secs_redux=0.0\u0026kids_enable_terms_servlet=true\u0026enable_red_carpet_p13n_shelves=true\u0026live_readahead_seconds_multiplier=0.8\u0026html5_hopeless_mode_request_size_secs=15\u0026report_promotes_terrorism_desktop=true\u0026html5_repredict_interval_secs=0.0\u0026html5_vp9_live_whitelist=false\u0026html5_break_deadlocks=true\u0026large_play_button_src=https:\/\/s.ytimg.com\/yts\/img\/large_play_button_ringo-vfljWXIdx.png\u0026enable_finished_broadcast_reactr_sharing=false\u0026enable_offer_restricts_for_watch_page_offers=true\u0026ad_video_end_renderer_duration_milliseconds=7000\u0026android_enable_thumbnail_overlay_side_panel=false\u0026playready_first_play_expiration=-1\u0026allow_live_autoplay=true\u0026html5_aspect_from_adaptive_format=true\u0026send_html5_api_stats_ads_abandon=true\u0026show_countdown_on_bumper=true\u0026html5_min_startup_smooth_target=10.0\u0026max_resolution_for_white_noise=360\u0026html5_elbow_tracking_tweaks=true\u0026lock_fullscreen=false\u0026web_player_flash_fallback_killswitch=true\u0026html5_nnr_downgrade_count=4\u0026fix_api_stats_ads_companion_backfill_break_type=true\u0026forced_brand_precap_duration_ms=2000\u0026dash_manifest_version=5\u0026html5_background_cap_idle_secs=60\u0026mweb_autonav_paddles=true\u0026html5_reselect_bandwidth_factor=3.0\u0026yto_enable_unlimited_landing_page_yto_features=true\u0026html5_enable_embedded_player_visibility_signals=true\u0026html5_live_pin_to_tail=true\u0026disable_max_adsense_channel_limit=true\u0026mweb_pu_android_chrome_54_above=true\u0026desktop_cleanup_companion_on_instream_begin=true\u0026enable_live_state_auth=true\u0026report_promotes_terrorism_android=true\u0026disable_new_pause_state3=true\u0026html5_get_video_info_timeout_ms=0\u0026ios_notifications_disabled_subs_tab_promoted_item_promo=true\u0026html5_request_size_max_secs=31\u0026html5_progressive_signature_reload=true\u0026html5_max_av_sync_drift=50\u0026use_forced_linebreak_preskip_text=true\u0026html5_stale_dash_manifest_retry_factor=1.0\u0026html5_max_headm_for_streaming_xhr=0\u0026show_thumbnail_on_standard=true\u0026html5_max_readahead_bandwidth_cap=0\u0026html5_background_quality_cap=360\u0026uniplayer_dbp=true\u0026mweb_enable_skippables_on_iphone=true\u0026html5_platform_minimum_readahead_seconds=0.0\u0026html5_ad_no_buffer_abort_after_skippable=true\u0026live_chunk_readahead=3\u0026html5_composite_stall=true\u0026fixed_padding_skip_button=true\u0026html5_live_4k_more_buffer=true\u0026kids_asset_theme=server_side_assets\u0026report_promotes_terrorism_mobile_web=true\u0026html5_max_buffer_duration=0\u0026html5_manifestless_vp9=true\u0026html5_chrome_ambisonics_opus=true\u0026large_play_button_hover_src=https:\/\/s.ytimg.com\/yts\/img\/large_play_button_hover_ringo-vfl7vEehF.png\u0026mysubs_highlight_shelf_counterfactual=false\u0026yto_feature_hub_channel=false\u0026live_chat_v1_turndown=true\u0026html5_adjust_effective_request_size=true\u0026new_promo_page=true\u0026ios_enable_mixin_accessibility_custom_actions=true\u0026html5_max_buffer_health_for_downgrade=15\u0026html5_min_upgrade_health=0\u0026website_actions_throttle_percentage=1.0\u0026html5_serverside_call_server_on_biscotti_error=true\u0026html5_variability_discount=0.5\u0026html5_subsegment_readahead_progress_timeout_fraction=0.8\u0026html5_request_sizing_multiplier=0.8\u0026use_push_for_desktop_live_chat=true\u0026interaction_log_delayed_event_batch_size=200\u0026html5_minimum_readahead_seconds=0.0\u0026html5_min_secs_between_format_selections=8.0\u0026html5_ultra_low_latency_streaming_responses=true\u0026html5_throttle_burst_secs=15.0\u0026ad_duration_threshold_for_showing_endcap_seconds=15\u0026html5_el_migration=true\u0026html5_variability_full_discount_thresh=3.0\u0026playready_on_borg=true\u0026html5_tight_max_buffer_allowed_bandwidth_stddevs=0.0\u0026html5_live_disable_dg_pacing=true\u0026html5_min_secs_over_max_bytes=true\u0026html5_throttle_rate=0.0\u0026html5_disable_urgent_upgrade_for_quality=true\u0026html5_always_enable_timeouts=true\u0026custom_emoji_legacy=true\u0026html5_clearance_fix=true\u0026use_new_skip_icon=true\u0026segment_volume_reporting=true\u0026html5_enable_mesh_projection=true\u0026disable_mweb_iphone_ad_click_handling_functionality=true\u0026enable_ccs_buy_flow_for_chirp=true\u0026html5_desktop_serverside_get_biscotti_id_from_client=true\u0026show_thumbnail_behind_ypc_offer_module=true\u0026html5_dom_pause=true\u0026legacy_autoplay_flag=true\u0026html5_pipeline_ultra_low_latency=true\u0026use_html5_player_event_timeout=true\u0026enable_bulleit_lidar_integration=true\u0026dynamic_ad_break_pause_threshold_sec=0\u0026flex_theater_mode=true\u0026postroll_notify_time_seconds=5\u0026html5_new_fallback=true\u0026enable_local_channel=true\u0026persist_text_on_preview_button=true\u0026html5_timeupdate_readystate_check=true\u0026html5_suspend_manifest_on_pause=true\u0026html5_strip_emsg=true\u0026report_promotes_terrorism_ios=true\u0026html5_connect_timeout_secs=7.0\u0026vss_dni_delayping=0\u0026html5_serverside_biscotti_id_wait_ms=1000\u0026yto_enable_watch_offer_module=true\u0026html5_mobile_perf_cap_240=true\u0026limit_of_rebuffering_event_on_html5=1000\u0026html5_tight_max_buffer_allowed_impaired_time=0.0\u0026enable_playlist_multi_season=true\u0026html5_deadzone_multiplier=1.0\u0026enable_prefetch_for_postrolls=true\u0026disable_trusted_ad_domains_player_check=true\u0026kids_enable_post_onboarding_red_flow=true\u0026html5_env_data_update_app_only=true\u0026web_player_disable_flash_watch=true\u0026youtubei_for_web=true\u0026html5_preload_size_excludes_metadata=true\u0026html5_min_buffer_to_resume=6\u0026html5_min_readbehind_cap_secs=0\u0026watermark_src=https:\/\/s.ytimg.com\/yts\/img\/watermark_ringo-vflPWbiPS.png\u0026html5_use_adaptive_live_readahead=true\u0026ios_disable_notification_preprompt=true\u0026embed_show_watchlater_login=true\u0026live_fresca_v2=true\u0026polymer_report_missing_web_navigation_endpoint=false\u0026player_destroy_old_version=true\u0026android_buy_bucket_buy_flows=true\u0026lugash_header_warmup=true\u0026html5_spherical_bicubic_mode=0\u0026html5_report_conn=true\u0026html5_disable_non_contiguous=true\u0026html5_disable_move_pssh_to_moov=true\u0026html5_default_quality_cap=0\u0026html5_allowable_liveness_drift_chunks=2\u0026html5_subsegment_readahead_timeout_secs=2.0\u0026html5_min_readbehind_secs=0\u0026sdk_wrapper_levels_allowed=0\u0026kids_enable_block_servlet=true\u0026html5_deferred_source_buffer_creation=true\u0026html5_post_interrupt_readahead=20\u0026disable_reporting_html5_no_vast_ads_as_error=true\u0026kids_mqb_use_confirmed_safe_videos_only=false\u0026html5_restrict_streaming_xhr_on_sqless_requests=true\u0026report_promotes_terrorism_polymer=true\u0026king_crimson_player_redux=true\u0026signed_out_notifications_inbox=true\u0026html5_min_vss_watchtime_to_cut_secs=0.0\u0026html5_disable_audio_slicing=true\u0026autoplay_time=8000\u0026logo_gaming_src=\u0026html5_get_video_info_promiseajax=true\u0026disable_client_side_midroll_freq_capping=true\u0026sdk_ad_prefetch_time_seconds=-1\u0026signed_out_notification_settings=true\u0026doubleclick_gpt_retagging=true\u0026dynamic_ad_break_seek_threshold_sec=0\u0026variable_load_timeout_ms=0\u0026disable_indisplay_adunit_on_embedded=true\u0026html5_maximum_readahead_seconds=0.0\u0026html5_variability_no_discount_thresh=1.0\u0026html5_local_max_byterate_lookahead=15\u0026website_actions_cta_redesign=true\u0026enable_plus_page_pts=true\u0026lugash_header_by_service=true\u0026html5_request_size_min_secs=0.0\u0026kids_enable_privacy_notice=true\u0026use_fast_fade_in_0s=true\u0026html5_min_request_size_kb=64\u0026html5_subsegment_readahead_target_buffer_health_secs=0.5\u0026web_player_api_logging_fraction=0.01\u0026android_native_live_enablement=true\u0026logo_src=https:\/\/s.ytimg.com\/yts\/img\/logo_ringo-vflOpz8ZI.png\u0026king_crimson_player=false\u0026channel_about_page_gadgets=true\u0026sidebar_renderers=true\u0026fix_gpt_pos_params=true\u0026kids_enable_server_side_assets=true\u0026mobile_disable_ad_mob_on_home=true\u0026mweb_playsinline=true\u0026yt_unlimited_pts_skip_ads_promo_desktop_always=true","innertube_api_version":"v1","ps":"desktop-polymer","external_play_video":"1"},"sts":17403,"params":{"allowfullscreen":"true","bgcolor":"#000000","allowscriptaccess":"always"}};ytplayer.load = function() {yt.player.Application.create("player-api", ytplayer.config);ytplayer.config.loaded = true;};(function() {if (!!window.yt && yt.player && yt.player.Application) {ytplayer.load();}}());</script>
+  </div>
+    <script >
+      window.__msa_deadline = Date.now() + 200;
+    </script>
+
+  <!-- end of chunk -->
+  <script >if (window.ytcsi) {window.ytcsi.tick("nc_pj", null, '');}</script>
+    
+<script  src="/yts/jsbin/spf-vflsYUIhx/spf.js" type="text/javascript" name="spf/spf" ></script>  
+  
+<script  src="/yts/jsbin/network-vfl5T2E0H/network.js" type="text/javascript" name="network/network" ></script>  
+  
+<script  src="/yts/jsbin/web-animations-next-lite.min-vflqEtsI7/web-animations-next-lite.min.js" type="text/javascript" name="web-animations-next-lite.min/web-animations-next-lite.min" ></script>  
+        <script >if (window.ytcsi) {window.ytcsi.tick("rsbe_dpsiwh", null, '');}</script>
+
+<link  rel="import" href="/yts/htmlbin/desktop_polymer_selective_initialization_watch-vflPFkHdF.html" name="desktop_polymer_selective_initialization_watch" >        <script >if (window.ytcsi) {window.ytcsi.tick("rsae_dpsiwh", null, '');}</script>
+
+      <script >if (window.ytcsi) {window.ytcsi.tick("rsbe_dpj", null, '');}</script>
+
+<script  src="/yts/jsbin/desktop_polymer-vfltYIMkn/desktop_polymer.js" type="text/javascript" name="desktop_polymer/desktop_polymer" ></script>      <script >if (window.ytcsi) {window.ytcsi.tick("rsae_dpj", null, '');}</script>
+
+
+  <script >
+    if (window.ytcsi) {window.ytcsi.tick("ac", null, '');}
+    if (window.Polymer && Polymer.RenderStatus) {
+      Polymer.RenderStatus._makeReady();
+      if (window.ytcsi) {window.ytcsi.tick("apr", null, '');}
+    }
+  </script>
+  <!-- end of chunk -->
+    <template id="polymer-app">
+        <script >if (window.ytcsi) {window.ytcsi.tick("ai", null, '');}</script>
+    <style>
+      body[invert] yt-icon#logo-icon.ytd-topbar-logo-renderer {
+        width: 80px;
+      }
+      body[invert] yt-icon#logo-red-icon.ytd-topbar-logo-renderer {
+        width: 106.4px;
+      }
+    </style>
+  <ytd-app>
+    <ytd-masthead id="masthead" class="shell"><div id="search-container"></div><div id="search-input"><input id="search" autocapitalize="none" autocomplete="off"autocorrect="off" autofocus hidden name="search_query" tabindex="0"type="text" spellcheck="false"></div><svg id="menu-icon" class="external-icon" preserveAspectRatio="xMidYMid meet"><g id="menu" class="yt-icons-ext" viewBox="0 0 24 24"><path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/></g></svg>    <svg id="yt-logo-svg" class="external-icon">
+      <g id="yt-logo" viewBox="0 0 200 60" preserveAspectRatio="xMidYMid meet">
+        <g>
+          <path fill="#FF0000" d="M63,14.87c-0.72-2.7-2.85-4.83-5.56-5.56C52.54,8,32.88,8,32.88,8S13.23,8,8.32,9.31
+            c-2.7,0.72-4.83,2.85-5.56,5.56C1.45,19.77,1.45,30,1.45,30s0,10.23,1.31,15.13c0.72,2.7,2.85,4.83,5.56,5.56
+            C13.23,52,32.88,52,32.88,52s19.66,0,24.56-1.31c2.7-0.72,4.83-2.85,5.56-5.56C64.31,40.23,64.31,30,64.31,30
+            S64.31,19.77,63,14.87z"/>
+          <polygon fill="#FFFFFF" points="26.6,39.43 42.93,30 26.6,20.57"/>
+        </g>
+        <g>
+          <g id="youtube-paths">
+            <path fill="#282828" d="M92.69,48.03c-1.24-0.84-2.13-2.14-2.65-3.91c-0.52-1.77-0.79-4.12-0.79-7.06v-4
+              c0-2.97,0.3-5.35,0.9-7.15c0.6-1.8,1.54-3.11,2.81-3.93c1.27-0.82,2.94-1.24,5.01-1.24c2.04,0,3.67,0.42,4.9,1.26
+              c1.23,0.84,2.13,2.15,2.7,3.93c0.57,1.78,0.85,4.16,0.85,7.12v4c0,2.94-0.28,5.3-0.83,7.08c-0.55,1.78-1.45,3.09-2.7,3.91
+              c-1.24,0.82-2.93,1.24-5.06,1.24C95.65,49.29,93.93,48.87,92.69,48.03z M99.66,43.71c0.34-0.9,0.52-2.37,0.52-4.4v-8.59
+              c0-1.98-0.17-3.42-0.52-4.34c-0.34-0.91-0.95-1.37-1.82-1.37c-0.84,0-1.43,0.46-1.78,1.37c-0.34,0.91-0.52,2.36-0.52,4.34v8.59
+              c0,2.04,0.16,3.51,0.49,4.4c0.33,0.9,0.93,1.35,1.8,1.35C98.71,45.06,99.31,44.61,99.66,43.71z"/>
+            <path fill="#282828" d="M188.16,37.13v1.39c0,1.77,0.05,3.09,0.16,3.98c0.1,0.88,0.32,1.53,0.65,1.93
+              c0.33,0.4,0.84,0.61,1.53,0.61c0.93,0,1.57-0.36,1.91-1.08c0.34-0.72,0.53-1.92,0.56-3.6l5.35,0.31
+              c0.03,0.24,0.04,0.57,0.04,0.99c0,2.55-0.7,4.45-2.09,5.71c-1.39,1.26-3.36,1.89-5.91,1.89c-3.06,0-5.2-0.96-6.43-2.88
+              c-1.23-1.92-1.84-4.88-1.84-8.9v-4.81c0-4.14,0.64-7.15,1.91-9.06c1.27-1.9,3.45-2.85,6.54-2.85c2.13,0,3.76,0.39,4.9,1.17
+              c1.14,0.78,1.94,1.99,2.41,3.64c0.46,1.65,0.7,3.93,0.7,6.83v4.72H188.16z M188.95,25.53c-0.31,0.39-0.52,1.03-0.63,1.91
+              c-0.11,0.88-0.16,2.23-0.16,4.02v1.98h4.54v-1.98c0-1.77-0.06-3.11-0.18-4.02c-0.12-0.91-0.34-1.56-0.65-1.93
+              c-0.31-0.37-0.8-0.56-1.46-0.56C189.75,24.94,189.26,25.14,188.95,25.53z"/>
+            <path fill="#282828" d="M77.59,36.61l-7.06-25.49h6.16l2.47,11.55c0.63,2.85,1.09,5.27,1.39,7.28h0.18
+              c0.21-1.44,0.67-3.85,1.39-7.24l2.56-11.6h6.16L83.7,36.61v12.23h-6.11V36.61z"/>
+            <path fill="#282828" d="M126.45,21.28v27.55h-4.85l-0.54-3.37h-0.13c-1.32,2.55-3.3,3.82-5.93,3.82c-1.83,0-3.18-0.6-4.05-1.8
+              c-0.87-1.2-1.3-3.07-1.3-5.62V21.28h6.2v20.23c0,1.23,0.13,2.11,0.4,2.63c0.27,0.52,0.72,0.79,1.35,0.79
+              c0.54,0,1.06-0.16,1.55-0.49c0.49-0.33,0.86-0.75,1.1-1.26V21.28H126.45z"/>
+            <path fill="#282828" d="M158.27,21.28v27.55h-4.85l-0.54-3.37h-0.13c-1.32,2.55-3.3,3.82-5.93,3.82c-1.83,0-3.18-0.6-4.05-1.8
+              c-0.87-1.2-1.3-3.07-1.3-5.62V21.28h6.2v20.23c0,1.23,0.13,2.11,0.4,2.63c0.27,0.52,0.72,0.79,1.35,0.79
+              c0.54,0,1.06-0.16,1.55-0.49c0.49-0.33,0.86-0.75,1.1-1.26V21.28H158.27z"/>
+            <path fill="#282828" d="M143.31,16.11h-6.16v32.72h-6.07V16.11h-6.16v-4.99h18.38V16.11z"/>
+            <path fill="#282828" d="M178.8,25.69c-0.38-1.74-0.98-3-1.82-3.78c-0.84-0.78-1.99-1.17-3.46-1.17c-1.14,0-2.2,0.32-3.19,0.97
+              c-0.99,0.64-1.75,1.49-2.29,2.54h-0.05l0-14.52h-5.98v39.11h5.12l0.63-2.61h0.13c0.48,0.93,1.2,1.66,2.16,2.2
+              c0.96,0.54,2.02,0.81,3.19,0.81c2.1,0,3.64-0.97,4.63-2.9c0.99-1.93,1.48-4.95,1.48-9.06v-4.36
+              C179.36,29.84,179.17,27.43,178.8,25.69z M173.11,36.93c0,2.01-0.08,3.58-0.25,4.72c-0.16,1.14-0.44,1.95-0.83,2.43
+              c-0.39,0.48-0.91,0.72-1.57,0.72c-0.51,0-0.98-0.12-1.42-0.36c-0.43-0.24-0.79-0.6-1.06-1.08V27.71
+              c0.21-0.75,0.57-1.36,1.08-1.84c0.51-0.48,1.06-0.72,1.66-0.72c0.63,0,1.12,0.25,1.46,0.74c0.34,0.49,0.58,1.33,0.72,2.49
+              c0.13,1.17,0.2,2.83,0.2,4.99V36.93z"/>
+          </g>
+        </g>
+      </g>
+    </svg>
+    <svg id="yt-logo-red-svg" class="external-icon">
+      <g id="yt-logo-red" viewBox="0 0 266 60" preserveAspectRatio="xMidYMid meet">
+        <g>
+          <path fill="#FF0000" d="M62.99,14.87c-0.72-2.7-2.85-4.83-5.56-5.56C52.53,8,32.88,8,32.88,8S13.22,8,8.32,9.31
+            c-2.7,0.72-4.83,2.85-5.56,5.56C1.45,19.77,1.45,30,1.45,30s0,10.23,1.31,15.13c0.72,2.7,2.85,4.83,5.56,5.56
+            C13.22,52,32.88,52,32.88,52s19.66,0,24.56-1.31c2.7-0.72,4.83-2.85,5.56-5.56C64.31,40.23,64.31,30,64.31,30
+            S64.31,19.77,62.99,14.87z"/>
+          <polygon fill="#FFFFFF" points="26.59,39.43 42.92,30 26.59,20.57"/>
+        </g>
+        <g id="youtube-red-paths">
+          <path fill="#282828" d="M219.19,48.83l-4.05-16.31c-0.54,0.04-1.12,0.09-1.75,0.09h-0.67v16.23h-6.02V11.12h7.87
+            c7.69,0,10.07,3.51,10.07,10.29v0.94c0,4.05-1.53,6.92-4.31,8.58l1.17,3.37l4.22,14.52h-6.53V48.83z M213.75,28.52
+            c3.42,0,4.63-2.07,4.63-6.07v-0.9c0-4.4-1.08-5.84-4.54-5.84h-1.12v12.81H213.75z"/>
+          <path fill="#282828" d="M233.3,37.15v1.39c0,4.85,0.27,6.52,2.34,6.52c1.98,0,2.43-1.53,2.47-4.67l5.35,0.31
+            c0.4,5.93-2.7,8.58-7.96,8.58c-6.38,0-8.27-4.18-8.27-11.78v-4.8c0-8,2.11-11.91,8.45-11.91c6.38,0,8,3.33,8,11.64v4.72H233.3z
+             M233.3,31.48v1.98h4.54v-1.98c0-5.08-0.36-6.52-2.29-6.52S233.3,26.45,233.3,31.48z"/>
+          <path fill="#282828" d="M257.57,9.73v13.9c-1.05-1.8-3.04-2.85-5.26-2.85c-4.18,0-6.11,3.73-6.11,11.96v4.36
+            c0,9.08,1.48,12.18,5.84,12.18c2.65,0,4.99-1.84,5.84-4.36h0.09l0.76,3.91h4.81V9.73H257.57z M257.57,42.23
+            c-0.45,1.62-1.57,2.65-2.74,2.52c-1.84,0-2.38-1.8-2.38-8.09V33.1c0-5.98,0.67-7.87,2.65-7.87c0.99,0,1.93,0.45,2.47,1.44
+            L257.57,42.23L257.57,42.23z"/>
+          <path fill="#282828" d="M92.69,48.03c-1.24-0.84-2.13-2.14-2.65-3.91c-0.52-1.77-0.79-4.12-0.79-7.06v-4
+            c0-2.97,0.3-5.35,0.9-7.15s1.54-3.11,2.81-3.93s2.94-1.24,5.01-1.24c2.04,0,3.67,0.42,4.9,1.26s2.13,2.15,2.7,3.93
+            s0.85,4.16,0.85,7.12v4c0,2.94-0.28,5.3-0.83,7.08s-1.45,3.09-2.7,3.91c-1.24,0.82-2.93,1.24-5.06,1.24
+            C95.65,49.29,93.93,48.87,92.69,48.03z M99.65,43.72c0.34-0.9,0.52-2.37,0.52-4.4v-8.59c0-1.98-0.17-3.42-0.52-4.34
+            c-0.34-0.91-0.95-1.37-1.82-1.37c-0.84,0-1.43,0.46-1.78,1.37c-0.34,0.91-0.52,2.36-0.52,4.34v8.59c0,2.04,0.16,3.51,0.49,4.4
+            c0.33,0.9,0.93,1.35,1.8,1.35C98.7,45.06,99.31,44.61,99.65,43.72z"/>
+          <path fill="#282828" d="M188.16,37.13v1.39c0,1.77,0.05,3.09,0.16,3.98c0.1,0.88,0.32,1.53,0.65,1.93
+            c0.33,0.4,0.84,0.61,1.53,0.61c0.93,0,1.57-0.36,1.91-1.08s0.53-1.92,0.56-3.6l5.35,0.31c0.03,0.24,0.04,0.57,0.04,0.99
+            c0,2.55-0.7,4.45-2.09,5.71s-3.36,1.89-5.91,1.89c-3.06,0-5.2-0.96-6.43-2.88c-1.23-1.92-1.84-4.88-1.84-8.9v-4.81
+            c0-4.14,0.64-7.15,1.91-9.06c1.27-1.9,3.45-2.85,6.54-2.85c2.13,0,3.76,0.39,4.9,1.17s1.94,1.99,2.41,3.64
+            c0.46,1.65,0.7,3.93,0.7,6.83v4.72L188.16,37.13L188.16,37.13z M188.95,25.53c-0.31,0.39-0.52,1.03-0.63,1.91
+            s-0.16,2.23-0.16,4.02v1.98h4.54v-1.98c0-1.77-0.06-3.11-0.18-4.02s-0.34-1.56-0.65-1.93s-0.8-0.56-1.46-0.56
+            C189.75,24.95,189.26,25.14,188.95,25.53z"/>
+          <path fill="#282828" d="M77.58,36.61l-7.06-25.49h6.16l2.47,11.55c0.63,2.85,1.09,5.27,1.39,7.28h0.18
+            c0.21-1.44,0.67-3.85,1.39-7.24l2.56-11.6h6.16L83.68,36.6v12.23h-6.11V36.61H77.58z"/>
+          <path fill="#282828" d="M126.45,21.28v27.55h-4.85l-0.54-3.37h-0.13c-1.32,2.55-3.3,3.82-5.93,3.82c-1.83,0-3.18-0.6-4.05-1.8
+            s-1.3-3.07-1.3-5.62V21.28h6.2v20.23c0,1.23,0.13,2.11,0.4,2.63c0.27,0.52,0.72,0.79,1.35,0.79c0.54,0,1.06-0.16,1.55-0.49
+            c0.49-0.33,0.86-0.75,1.1-1.26v-21.9H126.45z"/>
+          <path fill="#282828" d="M158.27,21.28v27.55h-4.85l-0.54-3.37h-0.13c-1.32,2.55-3.3,3.82-5.93,3.82c-1.83,0-3.18-0.6-4.05-1.8
+            c-0.87-1.2-1.3-3.07-1.3-5.62V21.28h6.2v20.23c0,1.23,0.13,2.11,0.4,2.63c0.27,0.52,0.72,0.79,1.35,0.79
+            c0.54,0,1.06-0.16,1.55-0.49s0.86-0.75,1.1-1.26v-21.9H158.27z"/>
+          <path fill="#282828" d="M143.3,16.12h-6.16v32.72h-6.07V16.12h-6.16v-4.99h18.38v4.99H143.3z"/>
+          <path fill="#282828" d="M178.8,25.69c-0.38-1.74-0.98-3-1.82-3.78c-0.84-0.78-1.99-1.17-3.46-1.17c-1.14,0-2.2,0.32-3.19,0.97
+            c-0.99,0.64-1.75,1.49-2.29,2.54h-0.05V9.73h-5.98v39.11h5.12l0.63-2.61h0.13c0.48,0.93,1.2,1.66,2.16,2.2s2.02,0.81,3.19,0.81
+            c2.1,0,3.64-0.97,4.63-2.9s1.48-4.95,1.48-9.06v-4.36C179.36,29.84,179.17,27.43,178.8,25.69z M173.11,36.93
+            c0,2.01-0.08,3.58-0.25,4.72c-0.16,1.14-0.44,1.95-0.83,2.43s-0.91,0.72-1.57,0.72c-0.51,0-0.98-0.12-1.42-0.36
+            c-0.43-0.24-0.79-0.6-1.06-1.08V27.71c0.21-0.75,0.57-1.36,1.08-1.84s1.06-0.72,1.66-0.72c0.63,0,1.12,0.25,1.46,0.74
+            c0.34,0.49,0.58,1.33,0.72,2.49c0.13,1.17,0.2,2.83,0.2,4.99L173.11,36.93L173.11,36.93z"/>
+        </g>
+      </g>
+    </svg>
+</ytd-masthead><div id="drop-shadow"></div>
+      <div id="guide-links-primary" style="display: none;">
+    <a href="//www.youtube.com/yt/about/">About</a>
+    <a href="//www.youtube.com/yt/press/">Press</a>
+    <a href="//www.youtube.com/yt/copyright/">Copyright</a>
+    <a href="//www.youtube.com/yt/creators/">Creators</a>
+    <a href="//www.youtube.com/yt/advertise/">Advertise</a>
+    <a href="//www.youtube.com/yt/dev/">Developers</a>
+    <a href="https://plus.google.com/+youtube" dir="ltr">+YouTube</a>
+  </div>
+
+      <div id="guide-links-secondary" style="display: none;">
+    <a href="/t/terms">Terms</a>
+    <a href="https://www.google.com/intl/en/policies/privacy/">Privacy</a>
+    <a href="//www.youtube.com/yt/policyandsafety/">Policy &amp; Safety</a>
+    <a href="/testtube">Test new features</a>
+  </div>
+
+      <div id="vat-notice" style="display: none;">
+  </div>
+
+      <div id="copyright" style="display: none;">
+    <div dir="ltr">&copy; 2017 YouTube, LLC</div>
+  </div>
+
+  </ytd-app>
+
+    </template>
+    
+<script >var ytsignalsInstance=window.ytsignals.getInstance(),signal=ytsignalsInstance.onAny(["eoir","eor"]);ytsignalsInstance.parkOrScheduleJob(function(){var a=document.querySelector("template#polymer-app");document.body.appendChild(document.importNode(a.content,!0))},3,signal);
+</script>  
+
+  <script >if (window.ytcsi) {window.ytcsi.tick("pdc", null, '');}</script>
+  
+  <script >
+    window["ytInitialData"] = {"responseContext":{"serviceTrackingParams":[{"service":"GFEEDBACK","params":[{"key":"has_unlimited_entitlement","value":"False"},{"key":"has_unlimited_ncc_free_trial","value":"False"},{"key":"e","value":"23700223,23700386,23700451,23700586,23700611,23701391,23701914,3300111,3300130,3312636,3313274,3313321,3313362,3313502,9422596,9431754,9449243,9460072,9461314,9463829,9467502,9471239,9473222,9474595,9476327,9480475,9480776,9481866,9483010,9486326,9488033,9488038,9489082,9489706,9489851"},{"key":"logged_in","value":"1"},{"key":"pn","value":"watch"}]},{"service":"GUIDED_HELP","params":[{"key":"context","value":"yt_web_kevlar_watch"},{"key":"creator_channel_id","value":"UCnI1Ciatkqc3ZKFevChfLCA"},{"key":"logged_in","value":"1"}]},{"service":"CSI","params":[{"key":"GetWatchNext_rid","value":"0x5d49eff8469e2bd7"},{"key":"c","value":"WEB"},{"key":"cver","value":"2.20170830"},{"key":"yt_li","value":"1"}]},{"service":"ECATCHER","params":[{"key":"client.name","value":"WEB"},{"key":"client.version","value":"2.20170830"},{"key":"innertube.build.changelist","value":"167319338"},{"key":"innertube.build.experiments.source_version","value":"167648844"},{"key":"innertube.build.label","value":"youtube.ytfe.desktop_20170830_0_RC4"},{"key":"innertube.build.timestamp","value":"1504303395"},{"key":"innertube.build.variants.checksum","value":"043e00922769895d5351a62b8359bf0e"},{"key":"innertube.run.job","value":"ytfe-watch.ytfe"}]}],"webResponseContextExtensionData":{"ytConfigData":{"csn":"mC6wWd_GJMjxqwWejKzYCA","visitorData":"CgtxaTgxX21yTWxaVQ%3D%3D","sessionIndex":0,"rootVisualElementType":3832},"feedbackDialog":{"polymerOptOutFeedbackDialogRenderer":{"title":{"runs":[{"text":"We're sorry to see you go!"}]},"subtitle":{"runs":[{"text":"Please tell us why. Your feedback helps us improve YouTube. Remember, you can always return to the new design by going to "},{"text":"youtube.com/new","navigationEndpoint":{"urlEndpoint":{"url":"https://www.youtube.com/new"},"webNavigationEndpointData":{"url":"https://www.youtube.com/new"}}},{"text":"."}]},"options":[{"polymerOptOutFeedbackOptionRenderer":{"optionKey":"missing","description":{"runs":[{"text":"Something is missing"}]},"responsePlaceholder":{"runs":[{"text":"Tell us more"}]}}},{"polymerOptOutFeedbackOptionRenderer":{"optionKey":"broken","description":{"runs":[{"text":"Something is broken"}]},"responsePlaceholder":{"runs":[{"text":"Tell us more"}]}}},{"polymerOptOutFeedbackOptionRenderer":{"optionKey":"harder","description":{"runs":[{"text":"Something is harder to use"}]},"responsePlaceholder":{"runs":[{"text":"Tell us more"}]}}},{"polymerOptOutFeedbackOptionRenderer":{"optionKey":"dislike","description":{"runs":[{"text":"I don't like the new design"}]},"responsePlaceholder":{"runs":[{"text":"Tell us more"}]}}},{"polymerOptOutFeedbackOptionRenderer":{"optionKey":"unlisted","description":{"runs":[{"text":"My reason isn't listed"}]},"responsePlaceholder":{"runs":[{"text":"Tell us more"}]}}},{"polymerOptOutFeedbackNullOptionRenderer":{"description":{"runs":[{"text":"I prefer not to answer"}]}}}],"disclaimer":{"runs":[{"text":"Go to the "},{"text":"Legal Help page","navigationEndpoint":{"urlEndpoint":{"url":"https://support.google.com/youtube/bin/answer.py?answer=140536"},"webNavigationEndpointData":{"url":"https://support.google.com/youtube/bin/answer.py?answer=140536"}}},{"text":" to request content changes for legal reasons. Your feedback, additional info, and email will be sent to Google. See "},{"text":"Privacy Policy","navigationEndpoint":{"urlEndpoint":{"url":"https://www.google.com/policies/privacy/"},"webNavigationEndpointData":{"url":"https://www.google.com/policies/privacy/"}}},{"text":" and "},{"text":"Terms of Service","navigationEndpoint":{"urlEndpoint":{"url":"https://www.google.com/policies/terms/"},"webNavigationEndpointData":{"url":"https://www.google.com/policies/terms/"}}},{"text":"."}]},"dismissButton":{"buttonRenderer":{"style":"STYLE_TEXT","size":"SIZE_DEFAULT","isDisabled":false,"text":{"runs":[{"text":"No thanks"}]}}},"submitButton":{"buttonRenderer":{"style":"STYLE_BRAND","size":"SIZE_DEFAULT","isDisabled":true,"text":{"runs":[{"text":"Submit"}]}}},"closeButton":{"buttonRenderer":{"style":"STYLE_DEFAULT","size":"SIZE_DEFAULT","isDisabled":false,"icon":{"iconType":"CLOSE"}}},"cancelButton":{"buttonRenderer":{"style":"STYLE_TEXT","size":"SIZE_DEFAULT","isDisabled":false,"text":{"runs":[{"text":"Cancel"}]}}}}}}},"currentVideoEndpoint":{"clickTrackingParams":"CBQQg2ciEwjf8v-XiZHWAhXI-KoKHR4GC4so-B0=","watchEndpoint":{"videoId":"SSEMiCkB-QY"},"webNavigationEndpointData":{"url":"/watch?v=SSEMiCkB-QY","webPageType":"WATCH"}},"trackingParams":"CBQQg2ciEwjf8v-XiZHWAhXI-KoKHR4GC4so-B0=","webWatchNextResponseExtensionData":{"relatedVideoArgs":""}};
+    window["ytInitialPlayerResponse"] = (
+        {"responseContext":{"serviceTrackingParams":[{"service":"CSI","params":[{"key":"GetPlayer_rid","value":"0x5d49eff8469e2bd7"},{"key":"c","value":"WEB"},{"key":"cver","value":"2.20170830"},{"key":"yt_li","value":"1"}]},{"service":"GFEEDBACK","params":[{"key":"e","value":"23700223,23700386,23700451,23700586,23700611,23701391,23701914,3300111,3300130,3312636,3313274,3313321,3313362,3313502,9422596,9431754,9449243,9460072,9461314,9463829,9467502,9471239,9473222,9474595,9476327,9480475,9480776,9481866,9483010,9486326,9488033,9488038,9489082,9489706,9489851"},{"key":"logged_in","value":"1"},{"key":"pn","value":"watch"}]},{"service":"GUIDED_HELP","params":[{"key":"creator_channel_id","value":"UCnI1Ciatkqc3ZKFevChfLCA"},{"key":"logged_in","value":"1"}]},{"service":"ECATCHER","params":[{"key":"client.name","value":"WEB"},{"key":"client.version","value":"2.20170830"},{"key":"innertube.build.changelist","value":"167319338"},{"key":"innertube.build.experiments.source_version","value":"167648844"},{"key":"innertube.build.label","value":"youtube.ytfe.desktop_20170830_0_RC4"},{"key":"innertube.build.timestamp","value":"1504303395"},{"key":"innertube.build.variants.checksum","value":"043e00922769895d5351a62b8359bf0e"},{"key":"innertube.run.job","value":"ytfe-watch.ytfe"}]}],"webResponseContextExtensionData":{"ytConfigData":{"csn":"mC6wWd_GJMjxqwWejKzYCA","visitorData":"CgtxaTgxX21yTWxaVQ%3D%3D","sessionIndex":0,"rootVisualElementType":3832},"feedbackDialog":{"polymerOptOutFeedbackDialogRenderer":{"title":{"runs":[{"text":"We're sorry to see you go!"}]},"subtitle":{"runs":[{"text":"Please tell us why. Your feedback helps us improve YouTube. Remember, you can always return to the new design by going to "},{"text":"youtube.com/new","navigationEndpoint":{"urlEndpoint":{"url":"https://www.youtube.com/new"},"webNavigationEndpointData":{"url":"https://www.youtube.com/new"}}},{"text":"."}]},"options":[{"polymerOptOutFeedbackOptionRenderer":{"optionKey":"missing","description":{"runs":[{"text":"Something is missing"}]},"responsePlaceholder":{"runs":[{"text":"Tell us more"}]}}},{"polymerOptOutFeedbackOptionRenderer":{"optionKey":"broken","description":{"runs":[{"text":"Something is broken"}]},"responsePlaceholder":{"runs":[{"text":"Tell us more"}]}}},{"polymerOptOutFeedbackOptionRenderer":{"optionKey":"harder","description":{"runs":[{"text":"Something is harder to use"}]},"responsePlaceholder":{"runs":[{"text":"Tell us more"}]}}},{"polymerOptOutFeedbackOptionRenderer":{"optionKey":"dislike","description":{"runs":[{"text":"I don't like the new design"}]},"responsePlaceholder":{"runs":[{"text":"Tell us more"}]}}},{"polymerOptOutFeedbackOptionRenderer":{"optionKey":"unlisted","description":{"runs":[{"text":"My reason isn't listed"}]},"responsePlaceholder":{"runs":[{"text":"Tell us more"}]}}},{"polymerOptOutFeedbackNullOptionRenderer":{"description":{"runs":[{"text":"I prefer not to answer"}]}}}],"disclaimer":{"runs":[{"text":"Go to the "},{"text":"Legal Help page","navigationEndpoint":{"urlEndpoint":{"url":"https://support.google.com/youtube/bin/answer.py?answer=140536"},"webNavigationEndpointData":{"url":"https://support.google.com/youtube/bin/answer.py?answer=140536"}}},{"text":" to request content changes for legal reasons. Your feedback, additional info, and email will be sent to Google. See "},{"text":"Privacy Policy","navigationEndpoint":{"urlEndpoint":{"url":"https://www.google.com/policies/privacy/"},"webNavigationEndpointData":{"url":"https://www.google.com/policies/privacy/"}}},{"text":" and "},{"text":"Terms of Service","navigationEndpoint":{"urlEndpoint":{"url":"https://www.google.com/policies/terms/"},"webNavigationEndpointData":{"url":"https://www.google.com/policies/terms/"}}},{"text":"."}]},"dismissButton":{"buttonRenderer":{"style":"STYLE_TEXT","size":"SIZE_DEFAULT","isDisabled":false,"text":{"runs":[{"text":"No thanks"}]}}},"submitButton":{"buttonRenderer":{"style":"STYLE_BRAND","size":"SIZE_DEFAULT","isDisabled":true,"text":{"runs":[{"text":"Submit"}]}}},"closeButton":{"buttonRenderer":{"style":"STYLE_DEFAULT","size":"SIZE_DEFAULT","isDisabled":false,"icon":{"iconType":"CLOSE"}}},"cancelButton":{"buttonRenderer":{"style":"STYLE_TEXT","size":"SIZE_DEFAULT","isDisabled":false,"text":{"runs":[{"text":"Cancel"}]}}}}}}},"playabilityStatus":{"status":"ERROR","reason":"This video is restricted. Try signing in with a Google Apps account.","errorScreen":{"playerErrorMessageRenderer":{"reason":{"simpleText":"This video is restricted. Try signing in with a Google Apps account."},"thumbnail":{"thumbnails":[{"url":"/yts/img/meh7-vflGevej7.png","width":140,"height":100}]}}}},"trackingParams":"CAEQu2kiEwjf8v-XiZHWAhXI-KoKHR4GC4so-B0=","topbar":{"desktopTopbarRenderer":{"logo":{"topbarLogoRenderer":{"iconImage":{"iconType":"YOUTUBE_LOGO"},"tooltipText":{"runs":[{"text":"YouTube Home"}]},"endpoint":{"clickTrackingParams":"CBMQsV4iEwjf8v-XiZHWAhXI-KoKHR4GC4so-B0=","browseEndpoint":{"browseId":"FEwhat_to_watch"},"webNavigationEndpointData":{"url":"/","webPageType":"BROWSE"}},"trackingParams":"CBMQsV4iEwjf8v-XiZHWAhXI-KoKHR4GC4so-B0="}},"searchbox":{"fusionSearchboxRenderer":{"icon":{"iconType":"SEARCH"},"placeholderText":{"runs":[{"text":"Search"}]},"config":{"webSearchboxConfig":{"requestLanguage":"en","requestDomain":"us","hasOnscreenKeyboard":false,"focusSearchbox":true}},"trackingParams":"CBIQ7VAiEwjf8v-XiZHWAhXI-KoKHR4GC4so-B0=","searchEndpoint":{"clickTrackingParams":"CBIQ7VAiEwjf8v-XiZHWAhXI-KoKHR4GC4so-B0=","searchEndpoint":{"query":""},"webNavigationEndpointData":{"url":"/results?q=","webPageType":"SEARCH"}}}},"trackingParams":"CAIQq6wBIhMI3_L_l4mR1gIVyPiqCh0eBguLKPgd","topbarButtons":[{"buttonRenderer":{"style":"STYLE_DEFAULT","size":"SIZE_DEFAULT","isDisabled":false,"icon":{"iconType":"UPLOAD"},"navigationEndpoint":{"clickTrackingParams":"CBEQ8FsYACITCN_y_5eJkdYCFcj4qgodHgYLiyj4HQ==","uploadEndpoint":{"hack":true},"webNavigationEndpointData":{"url":"/upload"}},"accessibility":{"label":"Upload"},"tooltip":"Upload","trackingParams":"CBEQ8FsYACITCN_y_5eJkdYCFcj4qgodHgYLiyj4HQ==","accessibilityData":{"accessibilityData":{"label":"Upload"}}}},{"topbarMenuButtonRenderer":{"icon":{"iconType":"APPS"},"menuRenderer":{"multiPageMenuRenderer":{"sections":[{"multiPageMenuSectionRenderer":{"items":[{"compactLinkRenderer":{"icon":{"iconType":"UNPLUGGED_LOGO"},"title":{"runs":[{"text":"YouTube TV"}]},"navigationEndpoint":{"clickTrackingParams":"CBAQ4MUCGAAiEwjf8v-XiZHWAhXI-KoKHR4GC4so-B0=","urlEndpoint":{"url":"https://tv.youtube.com/?utm_source=youtube_web\u0026utm_medium=ep\u0026utm_campaign=home\u0026ve=34273","target":"TARGET_NEW_WINDOW"},"webNavigationEndpointData":{"url":"https://tv.youtube.com/?utm_source=youtube_web\u0026utm_medium=ep\u0026utm_campaign=home\u0026ve=34273"}},"trackingParams":"CBAQ4MUCGAAiEwjf8v-XiZHWAhXI-KoKHR4GC4so-B0="}},{"compactLinkRenderer":{"icon":{"iconType":"COLORED_GAMING_LOGO"},"title":{"runs":[{"text":"YouTube Gaming"}]},"navigationEndpoint":{"clickTrackingParams":"CA8Q4cUCGAEiEwjf8v-XiZHWAhXI-KoKHR4GC4so-B0=","urlEndpoint":{"url":"https://gaming.youtube.com","target":"TARGET_NEW_WINDOW"},"webNavigationEndpointData":{"url":"https://gaming.youtube.com"}},"trackingParams":"CA8Q4cUCGAEiEwjf8v-XiZHWAhXI-KoKHR4GC4so-B0="}}],"trackingParams":"CA4Q968BGAAiEwjf8v-XiZHWAhXI-KoKHR4GC4so-B0="}},{"multiPageMenuSectionRenderer":{"items":[{"compactLinkRenderer":{"icon":{"iconType":"YOUTUBE_MUSIC"},"title":{"runs":[{"text":"YouTube Music"}]},"navigationEndpoint":{"clickTrackingParams":"CA0Q4sUCGAAiEwjf8v-XiZHWAhXI-KoKHR4GC4so-B0=","urlEndpoint":{"url":"https://music.youtube.com","target":"TARGET_NEW_WINDOW"},"webNavigationEndpointData":{"url":"https://music.youtube.com"}},"trackingParams":"CA0Q4sUCGAAiEwjf8v-XiZHWAhXI-KoKHR4GC4so-B0="}},{"compactLinkRenderer":{"icon":{"iconType":"YOUTUBE_KIDS_ROUND"},"title":{"runs":[{"text":"YouTube Kids"}]},"navigationEndpoint":{"clickTrackingParams":"CAwQ48UCGAEiEwjf8v-XiZHWAhXI-KoKHR4GC4so-B0=","urlEndpoint":{"url":"https://kids.youtube.com","target":"TARGET_NEW_WINDOW"},"webNavigationEndpointData":{"url":"https://kids.youtube.com"}},"trackingParams":"CAwQ48UCGAEiEwjf8v-XiZHWAhXI-KoKHR4GC4so-B0="}}],"trackingParams":"CAsQ968BGAEiEwjf8v-XiZHWAhXI-KoKHR4GC4so-B0="}},{"multiPageMenuSectionRenderer":{"items":[{"compactLinkRenderer":{"icon":{"iconType":"YOUTUBE_ROUND"},"title":{"runs":[{"text":"Creator Academy"}]},"navigationEndpoint":{"clickTrackingParams":"CAoQ5MUCGAAiEwjf8v-XiZHWAhXI-KoKHR4GC4so-B0=","urlEndpoint":{"url":"https://creatoracademy.youtube.com/page/education?utm_source=YouTube\u0026utm_medium=YT%20Main\u0026utm_campaign=YT%20Appsn","target":"TARGET_NEW_WINDOW"},"webNavigationEndpointData":{"url":"https://creatoracademy.youtube.com/page/education?utm_source=YouTube\u0026utm_medium=YT%20Main\u0026utm_campaign=YT%20Appsn"}},"trackingParams":"CAoQ5MUCGAAiEwjf8v-XiZHWAhXI-KoKHR4GC4so-B0="}},{"compactLinkRenderer":{"icon":{"iconType":"YOUTUBE_ROUND"},"title":{"runs":[{"text":"YouTube for Artists"}]},"navigationEndpoint":{"clickTrackingParams":"CAkQ5cUCGAEiEwjf8v-XiZHWAhXI-KoKHR4GC4so-B0=","urlEndpoint":{"url":"https://artists.youtube.com/","target":"TARGET_NEW_WINDOW"},"webNavigationEndpointData":{"url":"https://artists.youtube.com/"}},"trackingParams":"CAkQ5cUCGAEiEwjf8v-XiZHWAhXI-KoKHR4GC4so-B0="}}],"trackingParams":"CAgQ968BGAIiEwjf8v-XiZHWAhXI-KoKHR4GC4so-B0="}}],"trackingParams":"CAcQ_6sBIhMI3_L_l4mR1gIVyPiqCh0eBguLKPgd"}},"trackingParams":"CAYQ_qsBGAEiEwjf8v-XiZHWAhXI-KoKHR4GC4so-B0=","accessibility":{"accessibilityData":{"label":"YouTube apps"}},"tooltip":"YouTube apps","style":"STYLE_DEFAULT"}},{"notificationTopbarButtonRenderer":{"icon":{"iconType":"NOTIFICATIONS"},"menuRequest":{"clickTrackingParams":"CAUQovoBGAIiEwjf8v-XiZHWAhXI-KoKHR4GC4so-B0=","signalServiceEndpoint":{"signal":"GET_NOTIFICATIONS_MENU"}},"style":"NOTIFICATION_BUTTON_STYLE_TYPE_DEFAULT","trackingParams":"CAUQovoBGAIiEwjf8v-XiZHWAhXI-KoKHR4GC4so-B0=","accessibility":{"accessibilityData":{"label":"Notifications"}},"tooltip":"Notifications","updateUnseenCountEndpoint":{"clickTrackingParams":"CAUQovoBGAIiEwjf8v-XiZHWAhXI-KoKHR4GC4so-B0=","signalServiceEndpoint":{"signal":"GET_UNSEEN_NOTIFICATION_COUNT"}},"notificationCount":0,"handlerDatas":["NOTIFICATION_ACTION_UPDATE_UNSEEN_COUNT"]}},{"topbarMenuButtonRenderer":{"avatar":{"thumbnails":[{"url":"https://yt3.ggpht.com/-t3Wirk13kek/AAAAAAAAAAI/AAAAAAAAAAA/mHc3tG2PQNs/s88-c-k-no-mo-rj-c0xffffff/photo.jpg","width":88,"height":88}],"webThumbnailDetailsExtensionData":{"excludeFromVpl":true}},"menuRequest":{"clickTrackingParams":"CAQQ_qsBGAMiEwjf8v-XiZHWAhXI-KoKHR4GC4so-B0=","getAccountMenuEndpoint":{"hack":true}},"trackingParams":"CAQQ_qsBGAMiEwjf8v-XiZHWAhXI-KoKHR4GC4so-B0=","accessibility":{"accessibilityData":{"label":"Account profile photo that opens list of alternate accounts"}},"tooltip":"Account profile photo that opens list of alternate accounts"}}],"hotkeyDialog":{"hotkeyDialogRenderer":{"title":{"runs":[{"text":"Keyboard Shortcuts"}]},"sections":[{"hotkeyDialogSectionRenderer":{"title":{"runs":[{"text":"Global"}]},"options":[{"hotkeyDialogSectionOptionRenderer":{"label":{"runs":[{"text":"Previous video"}]},"hotkey":"P (SHIFT+p)"}},{"hotkeyDialogSectionOptionRenderer":{"label":{"runs":[{"text":"Next video"}]},"hotkey":"N (SHIFT+n)"}},{"hotkeyDialogSectionOptionRenderer":{"label":{"runs":[{"text":"Rewind 10 seconds"}]},"hotkey":"j"}},{"hotkeyDialogSectionOptionRenderer":{"label":{"runs":[{"text":"Fast forward 10 seconds"}]},"hotkey":"l"}},{"hotkeyDialogSectionOptionRenderer":{"label":{"runs":[{"text":"Toggle mute"}]},"hotkey":"m"}},{"hotkeyDialogSectionOptionRenderer":{"label":{"runs":[{"text":"Toggle play/pause"}]},"hotkey":"k"}},{"hotkeyDialogSectionOptionRenderer":{"label":{"runs":[{"text":"Seek backwards by smallest amount possible, when video is paused"}]},"hotkey":","}},{"hotkeyDialogSectionOptionRenderer":{"label":{"runs":[{"text":"Seek forwards by smallest amount possible, when video is paused"}]},"hotkey":"."}},{"hotkeyDialogSectionOptionRenderer":{"label":{"runs":[{"text":"Decrease playback rate"}]},"hotkey":"\u003c (SHIFT+,)"}},{"hotkeyDialogSectionOptionRenderer":{"label":{"runs":[{"text":"Increase playback rate"}]},"hotkey":"\u003e (SHIFT+.)"}},{"hotkeyDialogSectionOptionRenderer":{"label":{"runs":[{"text":"Increase playback rate"}]},"hotkey":"f"}}]}},{"hotkeyDialogSectionRenderer":{"title":{"runs":[{"text":"When focused on player"}]},"options":[{"hotkeyDialogSectionOptionRenderer":{"label":{"runs":[{"text":"Seek backwards by 5 seconds"}]},"hotkey":"LEFT"}},{"hotkeyDialogSectionOptionRenderer":{"label":{"runs":[{"text":"Seek fowards by 5 seconds"}]},"hotkey":"RIGHT"}},{"hotkeyDialogSectionOptionRenderer":{"label":{"runs":[{"text":"Increase the volume by 5%"}]},"hotkey":"UP"}},{"hotkeyDialogSectionOptionRenderer":{"label":{"runs":[{"text":"Decrease the volume by 5%"}]},"hotkey":"DOWN"}},{"hotkeyDialogSectionOptionRenderer":{"label":{"runs":[{"text":"Close the current dialog or similar dialogs (share panel)"}]},"hotkey":"ESCAPE"}},{"hotkeyDialogSectionOptionRenderer":{"label":{"runs":[{"text":"Seek to the begin of the video"}]},"hotkey":"HOME"}},{"hotkeyDialogSectionOptionRenderer":{"label":{"runs":[{"text":"Seek to the end of the video"}]},"hotkey":"END"}},{"hotkeyDialogSectionOptionRenderer":{"label":{"runs":[{"text":"If the video supports captions, toggle captions ON/OFF"}]},"hotkey":"c"}},{"hotkeyDialogSectionOptionRenderer":{"label":{"runs":[{"text":"Rotate through different text opacity levels"}]},"hotkey":"o"}},{"hotkeyDialogSectionOptionRenderer":{"label":{"runs":[{"text":"Rotate through different window opacity levels"}]},"hotkey":"w"}},{"hotkeyDialogSectionOptionRenderer":{"label":{"runs":[{"text":"Rotate through font sizes (increasing)"}]},"hotkey":"+"}},{"hotkeyDialogSectionOptionRenderer":{"label":{"runs":[{"text":"Rotate through font sizes (decreasing)"}]},"hotkey":"-"}},{"hotkeyDialogSectionOptionRenderer":{"label":{"runs":[{"text":"Seek to specific point in the video (7 advances to 70% of duration)"}]},"hotkey":"0..9"}},{"hotkeyDialogSectionOptionRenderer":{"label":{"runs":[{"text":"When viewing a spherical video, pan up"}]},"hotkey":"w"}},{"hotkeyDialogSectionOptionRenderer":{"label":{"runs":[{"text":"When viewing a spherical video, pan left"}]},"hotkey":"a"}},{"hotkeyDialogSectionOptionRenderer":{"label":{"runs":[{"text":"When viewing a spherical video, pan down"}]},"hotkey":"s"}},{"hotkeyDialogSectionOptionRenderer":{"label":{"runs":[{"text":"When viewing a spherical video, pan right"}]},"hotkey":"d"}},{"hotkeyDialogSectionOptionRenderer":{"label":{"runs":[{"text":"When viewing a spherical video, zoom in"}]},"hotkey":"+ on numpad or ]"}},{"hotkeyDialogSectionOptionRenderer":{"label":{"runs":[{"text":"When viewing a spherical video, zoom out"}]},"hotkey":"- on numpad or ["}}]}}],"dismissButton":{"buttonRenderer":{"style":"STYLE_BRAND","size":"SIZE_DEFAULT","isDisabled":false,"text":{"simpleText":"Dismiss"},"trackingParams":"CAMQ8FsiEwjf8v-XiZHWAhXI-KoKHR4GC4so-B0="}}}}}},"adSafetyReason":{"isWatchHistoryPaused":true}});
+    if (window.ytcsi) {window.ytcsi.tick("pdr", null, '');}
+  </script>
+
+  <script >
+    (function() {
+      var setFiller = function() {
+        var blankSwfConfig = {"url":"https:\/\/s.ytimg.com\/yts\/swfbin\/player-vflTfvXGT\/watch_as3.swf","html5":true,"min_version":"8.0.0","messages":{"player_fallback":["Adobe Flash Player or an HTML5 supported browser is required for video playback.\u003cbr\u003e\u003ca href=\"https:\/\/get.adobe.com\/flashplayer\/\"\u003eGet the latest Flash Player \u003c\/a\u003e\u003cbr\u003e\u003ca href=\"\/html5\"\u003eLearn more about upgrading to an HTML5 browser\u003c\/a\u003e"]},"assets":{"css":"\/yts\/cssbin\/www-player-webp-vfl1mBxV7.css","js":"\/yts\/jsbin\/player-en_US-vfleWWlqf\/base.js"},"attrs":{"id":"movie_player","wmode":"transparent"},"args":{"innertube_context_client_version":"2.20170830","host_language":"en","ssl":"1","fexp":"23700223,23700386,23700451,23700586,23700611,23701391,23701914,3300111,3300130,3312636,3313274,3313321,3313362,3313502,9422596,9431754,9449243,9460072,9461314,9463829,9467502,9471239,9473222,9474595,9476327,9480475,9480776,9481866,9483010,9486326,9488033,9488038,9489082,9489706,9489851","apiary_host":"","cr":"US","hl":"en_US","xhr_apiary_host":"youtubei.youtube.com","player_error_log_fraction":"1.0","innertube_api_key":"AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8","gapi_hint_params":"m;\/_\/scs\/abc-static\/_\/js\/k=gapi.gapi.en.ellQXbSf-LI.O\/m=__features__\/am=AAg\/rt=j\/d=1\/rs=AHpOoo9jm0At0b0B7I7G3MSvlepU00mZfA","apiary_host_firstparty":"","enablejsapi":"1","fflags":"html5_max_vss_watchtime_ratio=0.0\u0026html5_max_stall_per_req_secs=0\u0026html5_msi_error_fallback=true\u0026stop_using_ima_sdk_gpt_request_activity=true\u0026disable_search_mpu=true\u0026exclude_pyv_overlays_on_desktop_watch=true\u0026kids_eliminate_playlists_in_channels=true\u0026html5_subsegment_readahead_tail_margin_secs=0.2\u0026html5_suspended_state=true\u0026mpu_visible_threshold_count=2\u0026html5_bandwidth_window_size=0\u0026use_new_style=true\u0026mweb_blacklist_progressive_chrome_mobile=true\u0026yto_enable_ytr_promo_refresh_assets=true\u0026html5_serverside_call_server_on_biscotti_timeout=true\u0026midroll_notify_time_seconds=5\u0026mweb_muted_autoplay_animation=none\u0026chrome_promo_enabled=true\u0026html5_min_vss_watchtime_to_cut_secs_redux=0.0\u0026kids_enable_terms_servlet=true\u0026enable_red_carpet_p13n_shelves=true\u0026live_readahead_seconds_multiplier=0.8\u0026html5_hopeless_mode_request_size_secs=15\u0026report_promotes_terrorism_desktop=true\u0026html5_repredict_interval_secs=0.0\u0026html5_vp9_live_whitelist=false\u0026html5_break_deadlocks=true\u0026large_play_button_src=https:\/\/s.ytimg.com\/yts\/img\/large_play_button_ringo-vfljWXIdx.png\u0026enable_finished_broadcast_reactr_sharing=false\u0026enable_offer_restricts_for_watch_page_offers=true\u0026ad_video_end_renderer_duration_milliseconds=7000\u0026android_enable_thumbnail_overlay_side_panel=false\u0026playready_first_play_expiration=-1\u0026allow_live_autoplay=true\u0026html5_aspect_from_adaptive_format=true\u0026send_html5_api_stats_ads_abandon=true\u0026show_countdown_on_bumper=true\u0026html5_min_startup_smooth_target=10.0\u0026max_resolution_for_white_noise=360\u0026html5_elbow_tracking_tweaks=true\u0026lock_fullscreen=false\u0026web_player_flash_fallback_killswitch=true\u0026html5_nnr_downgrade_count=4\u0026fix_api_stats_ads_companion_backfill_break_type=true\u0026forced_brand_precap_duration_ms=2000\u0026dash_manifest_version=5\u0026html5_background_cap_idle_secs=60\u0026mweb_autonav_paddles=true\u0026html5_reselect_bandwidth_factor=3.0\u0026yto_enable_unlimited_landing_page_yto_features=true\u0026html5_enable_embedded_player_visibility_signals=true\u0026html5_live_pin_to_tail=true\u0026disable_max_adsense_channel_limit=true\u0026mweb_pu_android_chrome_54_above=true\u0026desktop_cleanup_companion_on_instream_begin=true\u0026enable_live_state_auth=true\u0026report_promotes_terrorism_android=true\u0026disable_new_pause_state3=true\u0026html5_get_video_info_timeout_ms=0\u0026ios_notifications_disabled_subs_tab_promoted_item_promo=true\u0026html5_request_size_max_secs=31\u0026html5_progressive_signature_reload=true\u0026html5_max_av_sync_drift=50\u0026use_forced_linebreak_preskip_text=true\u0026html5_stale_dash_manifest_retry_factor=1.0\u0026html5_max_headm_for_streaming_xhr=0\u0026show_thumbnail_on_standard=true\u0026html5_max_readahead_bandwidth_cap=0\u0026html5_background_quality_cap=360\u0026uniplayer_dbp=true\u0026mweb_enable_skippables_on_iphone=true\u0026html5_platform_minimum_readahead_seconds=0.0\u0026html5_ad_no_buffer_abort_after_skippable=true\u0026live_chunk_readahead=3\u0026html5_composite_stall=true\u0026fixed_padding_skip_button=true\u0026html5_live_4k_more_buffer=true\u0026kids_asset_theme=server_side_assets\u0026report_promotes_terrorism_mobile_web=true\u0026html5_max_buffer_duration=0\u0026html5_manifestless_vp9=true\u0026html5_chrome_ambisonics_opus=true\u0026large_play_button_hover_src=https:\/\/s.ytimg.com\/yts\/img\/large_play_button_hover_ringo-vfl7vEehF.png\u0026mysubs_highlight_shelf_counterfactual=false\u0026yto_feature_hub_channel=false\u0026live_chat_v1_turndown=true\u0026html5_adjust_effective_request_size=true\u0026new_promo_page=true\u0026ios_enable_mixin_accessibility_custom_actions=true\u0026html5_max_buffer_health_for_downgrade=15\u0026html5_min_upgrade_health=0\u0026website_actions_throttle_percentage=1.0\u0026html5_serverside_call_server_on_biscotti_error=true\u0026html5_variability_discount=0.5\u0026html5_subsegment_readahead_progress_timeout_fraction=0.8\u0026html5_request_sizing_multiplier=0.8\u0026use_push_for_desktop_live_chat=true\u0026interaction_log_delayed_event_batch_size=200\u0026html5_minimum_readahead_seconds=0.0\u0026html5_min_secs_between_format_selections=8.0\u0026html5_ultra_low_latency_streaming_responses=true\u0026html5_throttle_burst_secs=15.0\u0026ad_duration_threshold_for_showing_endcap_seconds=15\u0026html5_el_migration=true\u0026html5_variability_full_discount_thresh=3.0\u0026playready_on_borg=true\u0026html5_tight_max_buffer_allowed_bandwidth_stddevs=0.0\u0026html5_live_disable_dg_pacing=true\u0026html5_min_secs_over_max_bytes=true\u0026html5_throttle_rate=0.0\u0026html5_disable_urgent_upgrade_for_quality=true\u0026html5_always_enable_timeouts=true\u0026custom_emoji_legacy=true\u0026html5_clearance_fix=true\u0026use_new_skip_icon=true\u0026segment_volume_reporting=true\u0026html5_enable_mesh_projection=true\u0026disable_mweb_iphone_ad_click_handling_functionality=true\u0026enable_ccs_buy_flow_for_chirp=true\u0026html5_desktop_serverside_get_biscotti_id_from_client=true\u0026show_thumbnail_behind_ypc_offer_module=true\u0026html5_dom_pause=true\u0026legacy_autoplay_flag=true\u0026html5_pipeline_ultra_low_latency=true\u0026use_html5_player_event_timeout=true\u0026enable_bulleit_lidar_integration=true\u0026dynamic_ad_break_pause_threshold_sec=0\u0026flex_theater_mode=true\u0026postroll_notify_time_seconds=5\u0026html5_new_fallback=true\u0026enable_local_channel=true\u0026persist_text_on_preview_button=true\u0026html5_timeupdate_readystate_check=true\u0026html5_suspend_manifest_on_pause=true\u0026html5_strip_emsg=true\u0026report_promotes_terrorism_ios=true\u0026html5_connect_timeout_secs=7.0\u0026vss_dni_delayping=0\u0026html5_serverside_biscotti_id_wait_ms=1000\u0026yto_enable_watch_offer_module=true\u0026html5_mobile_perf_cap_240=true\u0026limit_of_rebuffering_event_on_html5=1000\u0026html5_tight_max_buffer_allowed_impaired_time=0.0\u0026enable_playlist_multi_season=true\u0026html5_deadzone_multiplier=1.0\u0026enable_prefetch_for_postrolls=true\u0026disable_trusted_ad_domains_player_check=true\u0026kids_enable_post_onboarding_red_flow=true\u0026html5_env_data_update_app_only=true\u0026web_player_disable_flash_watch=true\u0026youtubei_for_web=true\u0026html5_preload_size_excludes_metadata=true\u0026html5_min_buffer_to_resume=6\u0026html5_min_readbehind_cap_secs=0\u0026watermark_src=https:\/\/s.ytimg.com\/yts\/img\/watermark_ringo-vflPWbiPS.png\u0026html5_use_adaptive_live_readahead=true\u0026ios_disable_notification_preprompt=true\u0026embed_show_watchlater_login=true\u0026live_fresca_v2=true\u0026polymer_report_missing_web_navigation_endpoint=false\u0026player_destroy_old_version=true\u0026android_buy_bucket_buy_flows=true\u0026lugash_header_warmup=true\u0026html5_spherical_bicubic_mode=0\u0026html5_report_conn=true\u0026html5_disable_non_contiguous=true\u0026html5_disable_move_pssh_to_moov=true\u0026html5_default_quality_cap=0\u0026html5_allowable_liveness_drift_chunks=2\u0026html5_subsegment_readahead_timeout_secs=2.0\u0026html5_min_readbehind_secs=0\u0026sdk_wrapper_levels_allowed=0\u0026kids_enable_block_servlet=true\u0026html5_deferred_source_buffer_creation=true\u0026html5_post_interrupt_readahead=20\u0026disable_reporting_html5_no_vast_ads_as_error=true\u0026kids_mqb_use_confirmed_safe_videos_only=false\u0026html5_restrict_streaming_xhr_on_sqless_requests=true\u0026report_promotes_terrorism_polymer=true\u0026king_crimson_player_redux=true\u0026signed_out_notifications_inbox=true\u0026html5_min_vss_watchtime_to_cut_secs=0.0\u0026html5_disable_audio_slicing=true\u0026autoplay_time=8000\u0026logo_gaming_src=\u0026html5_get_video_info_promiseajax=true\u0026disable_client_side_midroll_freq_capping=true\u0026sdk_ad_prefetch_time_seconds=-1\u0026signed_out_notification_settings=true\u0026doubleclick_gpt_retagging=true\u0026dynamic_ad_break_seek_threshold_sec=0\u0026variable_load_timeout_ms=0\u0026disable_indisplay_adunit_on_embedded=true\u0026html5_maximum_readahead_seconds=0.0\u0026html5_variability_no_discount_thresh=1.0\u0026html5_local_max_byterate_lookahead=15\u0026website_actions_cta_redesign=true\u0026enable_plus_page_pts=true\u0026lugash_header_by_service=true\u0026html5_request_size_min_secs=0.0\u0026kids_enable_privacy_notice=true\u0026use_fast_fade_in_0s=true\u0026html5_min_request_size_kb=64\u0026html5_subsegment_readahead_target_buffer_health_secs=0.5\u0026web_player_api_logging_fraction=0.01\u0026android_native_live_enablement=true\u0026logo_src=https:\/\/s.ytimg.com\/yts\/img\/logo_ringo-vflOpz8ZI.png\u0026king_crimson_player=false\u0026channel_about_page_gadgets=true\u0026sidebar_renderers=true\u0026fix_gpt_pos_params=true\u0026kids_enable_server_side_assets=true\u0026mobile_disable_ad_mob_on_home=true\u0026mweb_playsinline=true\u0026yt_unlimited_pts_skip_ads_promo_desktop_always=true","innertube_api_version":"v1","ps":"desktop-polymer","external_play_video":"1"},"sts":17403,"params":{"allowfullscreen":"true","bgcolor":"#000000","allowscriptaccess":"always"}};
+        var fillerData = {
+          browse: {
+            filler: true,
+            page: 'browse'
+          },
+          home: {
+            filler: true,
+            page: 'home',
+            response: {
+              contents: {
+                twoColumnBrowseResultsRenderer: {
+                  tabs: [{
+                    tabRenderer: {
+                      selected: true,
+                      content: {
+                        sectionListRenderer: {
+                          contents: [],
+                          continuations: [{
+                            nextContinuationData: {continuation: ''}
+                          }]
+                        }
+                      }
+                    }
+                  }]
+                }
+              }
+            }
+          },
+          search: {
+            filler: true,
+            page: 'search',
+            response: {
+              contents: {
+                twoColumnSearchResultsRenderer: {
+                  primaryContents: {
+                    sectionListRenderer: {
+                      contents: [],
+                      subMenu: {
+                        searchSubMenuRenderer: {}
+                      }
+                    }
+                  },
+                  secondaryContents: {
+                    secondarySearchContainerRenderer: {
+                      contents: []
+                    }
+                  }
+                }
+              }
+            }
+          },
+          watch: {
+            filler: true,
+            page: 'watch',
+            playerResponse: {
+              playabilityStatus: {
+                status: 'OK'
+              }
+            },
+            response: {
+              contents: {
+                twoColumnWatchNextResults: {
+                  results: {
+                    results: {
+                      contents: [{
+                        videoPrimaryInfoRenderer: {},
+                        videoSecondaryInfoRenderer: {}
+                      }]
+                    }
+                  },
+                  secondaryResults: {
+                    secondaryResults: {}
+                  }
+                }
+              }
+            }
+          },
+          player: blankSwfConfig
+        };
+
+
+        window.ytcfg.set('FILLER_DATA', fillerData);
+      };
+
+        window.getPageData = function() {
+          if (window.ytcsi) {window.ytcsi.tick("pr", null, '');}
+          var endpoint = null;
+            endpoint = {"urlEndpoint":{"url":"/watch?v=SSEMiCkB-QY"},"webNavigationEndpointData":{"url":"/watch?v=SSEMiCkB-QY","webPageType":"WATCH"}};
+          var data = {
+              page: "watch",
+              player: ytplayer.config,
+              playerResponse: window.ytInitialPlayerResponse,
+                url: "\/watch?v=SSEMiCkB-QY",
+                csn: "mC6wWd_GJMjxqwWejKzYCA",
+              response: window.ytInitialData
+          };
+          return {
+            data: data,
+            endpoint: endpoint
+          };
+        };
+
+        if (window.loadDataHook) {
+          var pageData = window.getPageData();
+          window.loadDataHook(pageData.endpoint, pageData.data);
+          window.loadDataHook = null;
+        }
+        setFiller();
+
+
+    })();
+
+      var meta = document.createElement('meta');
+      meta.name = 'referrer';
+      meta.content = 'origin';
+      document.getElementsByTagName('head')[0].appendChild(meta);
+  </script>
+<script >if (window.ytcsi) {window.ytcsi.info("st", 410, '');}</script></body></html>
